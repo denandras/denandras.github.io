@@ -1,6 +1,10 @@
 ---
 #zenetöri #fogalom #műfaj #tétel
 alias: sonata, szonáta
+title: szonáta
+feed: show
+date: 2022-12-23 17:30
+permalink: /szonáta
 ---
 
 `16. sz-ban` az addig csak énekelt canzonekat hangszerrel is előadták -> canson da sonar

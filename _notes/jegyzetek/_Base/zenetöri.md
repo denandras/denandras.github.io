@@ -13,47 +13,47 @@ alias: zenetörténet, zenetörténelem
 ## Első félév - Középkor-reneszánsz (FG)
 [[zenetöri 1. félév vizsga]]
 
-1. [[a középkori zene]]
+1. [[A középkori zene]]
 
-2. [[zenei írásbeliség, gregorián]]
+2. [[Zenei írásbeliség, gregorián]]
 
-3. [[világi zene a középkorban]]
+3. [[Világi zene a középkorban]]
 
-4. [[a 13-14. sz. művészi zenéje]]
+4. [[A 13-14. sz. művészi zenéje]]
 
 5. [[Machaut]]
 
-6. [[a 15. sz. meghatározó műfajai]]
+6. [[A 15. sz. meghatározó műfajai]]
 
 7. [[Josquin de Prez és a kottanyomtatás]]
 
-8. [[világi műfajok a 16. században]]
+8. [[Világi műfajok a 16. században]]
 
-9. [[Humanizmus|Humanizmus és az első operák]]
+9. [[Humanizmus]] és az első operák
 
 
 ## Második félév - Barokk (FG)
 [[zenetöri 2. félév syllabus]]
 
-[[zenetöri második félév összefoglalás]]
+[[zenetöri 2. félév összefoglalás]]
 
-1. [[a barokk zenéről általában]]
+1. [[A barokk zenéről általában]]
 
-2. [[opera]]
+2. A barokk [[opera]]
 
-3. [[hangszeres zene a 17. században]]
+3. [[Hangszeres zene a 17. században]]
 
-4. [[egyházi zene a 17. században]]
+4. [[Egyházi zene a 17. században]]
 
-5. [[francia barokk]]
+5. [[Francia barokk]]
 
-6. [[angol zenei kultúra]]
+6. [[Angol zenei kultúra]]
 
 7. [[szonáta]]
 
-8. [[hangszeres concerto]]
+8. [[Hangszeres concerto]]
 
-9. [[Bach|Johann Sebastian Bach]]
+9. Johann Sebastian [[Bach]]
 
 
 ## Harmadik félév - Klasszika (BP)

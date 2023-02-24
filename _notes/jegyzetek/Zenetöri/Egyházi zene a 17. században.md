@@ -1,5 +1,9 @@
 ---
 #zenetöri #tétel
+title: Egyházi zene a 17. században
+feed: show
+date: 2022-12-23 17:30
+permalink: /Egyházi zene a 17. században
 ---
 
 -   [[Opera]] és [[madrigál]] nyomtatva terjedt, de még mindig csak szűk körökben

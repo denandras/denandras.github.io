@@ -1,5 +1,9 @@
 ---
 #zenetöri #fogalom #tétel #műfaj
+title: opera
+feed: show
+date: 2022-12-23 17:30
+permalink: /opera
 ---
 [[Humanizmus]], [[semi-opera]], [[opera buffa]], [[opera seria]], [[udvari opera]], [[velencei opera]] [[monódikus stílus]], [[Hyppolyte et Aricie]]
 __________________

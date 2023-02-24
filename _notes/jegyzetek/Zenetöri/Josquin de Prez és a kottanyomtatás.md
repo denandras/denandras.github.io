@@ -1,5 +1,9 @@
 ---
 #zenetöri #tétel
+title: Josquin de Prez és a kottanyomtatás
+feed: show
+date: 2022-12-23 17:30
+permalink: /Josquin de Prez és a kottanyomtatás
 ---
 
 -   Ki volt [[Josquin]]?

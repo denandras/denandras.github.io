@@ -1,3 +1,13 @@
+---
+title: zenetöri 2. félév syllabus
+feed: show
+date: 2022-12-23 17:30
+permalink: /zenetöri 2 félév syllabus
+#zenetöri
+
+alias:
+---
+
 1. BAROKK ZENE?
 A „barokk” kifejezés jelentése; a zenetörténeti korszak időbeli határai (a stílusváltozás 1600
 és 1730 körül); általános jellemzők (színházi jelleg, basso continuo); legfontosabb

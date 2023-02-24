@@ -1,6 +1,10 @@
 ---
 alias: francia barokk
 #zenetöri #tétel
+title: Francia barokk
+feed: show
+date: 2022-12-23 17:30
+permalink: /Francia barokk
 ---
 
 -   [[A barokk zenéről általában|barokk]] zene a feledésbe merül

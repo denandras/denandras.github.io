@@ -1,6 +1,10 @@
 ---
 #zenetöri #tétel #fogalom #műfaj
 alias: concerto
+title: Hangszeres concerto
+feed: show
+date: 2022-12-23 17:30
+permalink: /Hangszeres concerto
 ---
 
 - mindenféle hangszeres darab
