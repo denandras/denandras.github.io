@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zenetöri/Schobert.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b93cd3582f0ca3be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zenetöri/kíséretes szonáta.md",
+                "file": "_Base/posztmodern.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -34,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zenetöri/kíséretes szonáta.md",
+                "file": "_Base/posztmodern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zenetöri/kíséretes szonáta.md",
+                "file": "_Base/posztmodern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zenetöri/kíséretes szonáta.md"
+                "file": "_Base/posztmodern.md"
               }
             }
           }
@@ -163,33 +149,33 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b93cd3582f0ca3be",
+  "active": "6610c07d2b060bda",
   "lastOpenFiles": [
-    "Zenetöri/Schobert.md",
-    "Zenetöri/kíséretes szonáta.md",
-    "Zenetöri/Schiller.md",
-    "Zenetöri/scherzo.md",
-    "Zenetöri/Sammartini.md",
-    "Zenetöri/Salieri.md",
-    "Zenetöri/sackbut.md",
-    "Zenetöri/Rupert Christiansen - The Faber Pocket Guide to Opera.md",
-    "Zenetöri/Rousseau.md",
-    "Zenetöri/Rossini.md",
-    "Zenetöri/Rosen - a klasszikáról.md",
-    "Zenetöri/romantikus dal.md",
-    "Zenetöri/romantika fogalma.md",
-    "Zenetöri/rokokó.md",
-    "Zenetöri/ritornello.md",
-    "Zenetöri/Rimszkij-Korszakov.md",
-    "Zenetöri/revideált.md",
-    "Zenetöri/Reutter.md",
-    "Zenetöri/reneszánsz.md",
-    "Zenetöri/Rameau.md",
-    "Zenetöri/racionalizmus.md",
-    "Zenetöri/Quinault.md",
-    "Zenetöri/Purcell.md",
-    "Zenetöri/Puccini.md",
-    "Zenetöri/programzene.md",
-    "Zenetöri/programatikus.md"
+    "Zenetöri/zongoraverseny.md",
+    "Zenetöri/zenetöri 2 félév syllabus.md",
+    "Zenetöri/zenetöri 2 félév összefoglalás.md",
+    "Zenetöri/zenetöri 1 félév vizsga.md",
+    "Zenetöri/Zenei írásbeliség, gregorián.md",
+    "Zenetöri/zarzuela.md",
+    "Zenetöri/XIV Lajos.md",
+    "Zenetöri/Wohltemperiertes Klavier.md",
+    "Zenetöri/William Dows.md",
+    "Zenetöri/Willaert.md",
+    "Zenetöri/Weöres Sándor.md",
+    "Zenetöri/weimari klasszika.md",
+    "Zenetöri/Webster 19th Century Music.md",
+    "Zenetöri/Walter von der Vogelweide.md",
+    "Zenetöri/Wagner.md",
+    "Zenetöri/vonósnégyes.md",
+    "Zenetöri/Voltaire.md",
+    "Zenetöri/Vincenzo Galilei.md",
+    "Zenetöri/villanella.md",
+    "Zenetöri/Világi zene a középkorban.md",
+    "Zenetöri/Világi műfajok a 16. században.md",
+    "Zenetöri/Velencei opera.md",
+    "Zenetöri/Varázsfuvola.md",
+    "Zenetöri/Úrhatnám szolgáló.md",
+    "Zenetöri/Udvari opera.md",
+    "Zenetöri/udvari balett.md"
   ]
 }

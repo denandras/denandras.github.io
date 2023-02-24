@@ -1,7 +1,11 @@
 ---
-alias: La serva padrona
+title: Úrhatnám szolgáló
+feed: show
+date: 2022-12-23 17:30
+permalink: /Úrhatnám szolgáló
 #zenetöri #mű
 ---
+La serva padrona
 - [[Pergolesi]] 1733-as operája
 - szövegkönyv [[G A Federico]]
 	- ravasz szobalány ujja köré csavarja férjét

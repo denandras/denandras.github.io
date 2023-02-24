@@ -1,5 +1,9 @@
 ---
 #zenetöri
+title: Schubert dalciklusai
+feed: show
+date: 2023-02-20 19:34
+permalink: /Schubert dalciklusai
 ---
 
 - op. 3-tól 3-5 dalt kapcsol egybe

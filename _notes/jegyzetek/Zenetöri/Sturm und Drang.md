@@ -1,7 +1,10 @@
 ---
 #zenetöri #fogalom
-alias: vihar és vágy
+title: Sturm und Drang
+feed: show
+date: 2022-12-23 17:30
+permalink: /Sturm und Drang
 ---
-
+vihar és vágy
 [[Klinger]]: Sturm und Drang
-[[Haydn|Joseph Haydn]] moll szimfóniái pl. [[45. szimfónia|Búcsú szimfónia]]
+[[Haydn]] moll szimfóniái pl. [[45. szimfónia]]

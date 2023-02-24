@@ -29,7 +29,7 @@ permalink: /A barokk zenéről általában
 	* Guido Adler: Dritte Stilperiode
 	* 19. század vége: neutrális kifejezéssé vált
 	
-- [[monódikus stílus|monódikus énekstílus]], [[opera]]
+- [[monódikus stílus]], [[opera]]
 	- új stílus, új korszak
 
 * szobor: [[Bernini]]: Apollón és Daphné

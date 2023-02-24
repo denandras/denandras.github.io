@@ -32,4 +32,4 @@ permalink: /szimfónia
 	- (Haydn Il distrattoja kísérőzene volt, tételek között játszották)
 - ![[Sammartini]]
 - ![[Johann Stamitz]]
-- [[Mozart]] szimfóniái [[Mozart#^f60ab2]]
+- [[Mozart]] szimfóniái

@@ -1,8 +1,12 @@
 ---
 #zenetöri #személy
-alias: Robert Schumann
+title: Schumann
+feed: show
+date: 2023-02-22 10:28
+permalink: /Schumann
 ---
 [[Robert Schumann - Válogatott írások]]
+Robert Schumann
 
 - virtuóz előadónak készült
 	- lebénult az egyik ujja

@@ -26,7 +26,7 @@ permalink: /Singspiel
 
 ### Példák
 
-- [[Mozart]]: Bastien, [[Die Entführung aus dem Serail|Szöktetés]], [[Der Schauspieldirektor]]
+- [[Mozart]]: Bastien, [[Die Entführung aus dem Serail]], [[Der Schauspieldirektor]]
 - Mozart: ![[Varázsfuvola]]
 - [[Johann Adam Hiller]]
 

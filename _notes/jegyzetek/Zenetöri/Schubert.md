@@ -1,7 +1,11 @@
 ---
 #zenetöri #személy #tétel
-alias: Franz Schubert
+title: Schubert
+feed: show
+date: 2023-02-20 07:09
+permalink: /Schubert
 ---
+Franz Schubert
 <div class="cropped"><img src="https://koncert.zeneakademia.hu/data/ZENEAKADEMIA.HU/2021_osz/sajat/schubert_triok_2021_osz_focuspoint_900x510.jpg"></div>
 Ajánlott irodalom: [[Christopher H Gibbs - The life of Schubert]]
 

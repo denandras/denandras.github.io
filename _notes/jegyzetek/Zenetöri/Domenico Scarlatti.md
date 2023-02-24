@@ -11,7 +11,7 @@ permalink: /Domenico Scarlatti
 - Nápolyban született ([[opera buffa]] központja), ==1660-1725==
 - Az olasz barokk opera egyik legjelentősebb képviselője
 - **Spanoylország**ban tevékenykedett
-> [[Alessandro Scarlatti|Alessandro Scarlatti]] fia
+> [[Alessandro Scarlatti]] fia
 
 - pályafutását apja nyomására operaszerzőként kezdte [^1]
 - 554/555 egytételes billentyűs szonáta

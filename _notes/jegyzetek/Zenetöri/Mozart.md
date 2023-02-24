@@ -28,7 +28,7 @@ Wolfgang Amadeus Mozart
 	- a kettő között [[Idomeneo]] [[Die Entführung aus dem Serail]]
 - a kiadások
 	- a hangszerre csak a dinamikai jelölések skálája utal ([[Müncheni szonáták]])
-		- helyi hangszerállomány lassú modernizálása -> pour le [clavecin](clavichord) ou [[Cristofori fortepianója|pianoforte]]
+		- helyi hangszerállomány lassú modernizálása -> pour le [clavecin](clavichord) ou [[pianoforte]]
 	- 10 jelent meg nyomtatásban ([[Müncheni szonáták]])
 	- a [[Mozart - Trois Sonates]] kiadást nem ellenőrizte, a többi viszont szerzői kiadások
 	- a szakértők még vitáznak a kiadók miatt is

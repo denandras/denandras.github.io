@@ -12,7 +12,6 @@ alias:
 - esszé, vagy jelenléti jegykérés
 - Említések
 	- [[Vajda Mihály]]
-
 - egy olyan korszakjelölő fogalom, amely egy másik korszakhoz viszonyítja magát
 - nem modernellenes, hanem kritikával viszonyul a modernitáshoz
 - Liotar esszéje

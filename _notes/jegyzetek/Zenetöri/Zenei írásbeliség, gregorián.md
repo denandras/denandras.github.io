@@ -1,5 +1,9 @@
 ---
 #zenetöri #tétel
+title: Zenei írásbeliség, gregorián
+feed: show
+date: 2023-01-19 17:25
+permalink: /Zenei írásbeliség, gregorián
 ---
 
 -   Nyitógondolatok

@@ -27,7 +27,7 @@ permalink: /Világi műfajok a 16 században
             -   hattyú
             -   fontos szavak megjelenése a zenében
         -   fokozatosan egyre művészibbé válik
-            -   **[[Adrian Willaert]]**: Musica Nova - [[madrigál]]ok és [[motetta|motetták]]
+            -   **[[Adrian Willaert]]**: Musica Nova - [[madrigál]]ok és [[motetta]]k
             -   nincs jelentős különbség
             -   `1501:` [[Petrarca]] versei nyomtatva
                 -   képekben gazdag
@@ -35,7 +35,7 @@ permalink: /Világi műfajok a 16 században
         -   **[[Monteverdi]]** madrigálja
             -   nimfák
             -   a nimfa éneke teljesen más stílust követ (már barokkos), mint a kórus
-            -   reneszánsz-[[A barokk zenéről általában|barokk]]-[[reneszánsz]]
+            -   reneszánsz-barokk-reneszánsz
             -   a [[reneszánsz]] [[madrigál]] korlátai
                 -   távolságtartás (szöveg) a szöveg és az érzelmek között
         -   kromatikus [[madrigál]] - egyre komplexebbé válik

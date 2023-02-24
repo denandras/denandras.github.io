@@ -17,8 +17,8 @@ permalink: /szonáta
 * [[Purcell]] első Triószonáta kötete 1683-ban (3 szólam)
 - halála után 1689-ben kiadva: trio [[szonáta]]k négy szólammal ([[basso continuo]] két szólammal)
 	* példa: 5 ütemes continuo kör, érdekes számok, amiket nem hallunk
-* [[Arcangelo Corelli|Corelli]] szonátasorozata (1681) hatással van rá 
-	* *[[Arcangelo Corelli|Corelli]], a felfedező*
+* [[Arcangelo Corelli]] szonátasorozata (1681) hatással van rá 
+	* *[[Arcangelo Corelli]], a felfedező*
 	* Op. 1: [[lépegető basszus]]
 		* grave, fuga, adagio, allegro (4-5 tétel)
 		* körbejárja a kvintkört
@@ -30,7 +30,7 @@ permalink: /szonáta
 > - [[Sebastien Brossard]] zenei lexikonja (**1703**):
 		> sonata (suonata): *suonare = hangzik, (mert csak hangszerek vannak benne)*
 		> nagyszabású darabok, amelyekben egy szóval mindenféle váltakozik, **Az ellenponton kívül semmi nem köti meg a zeneszerző kezét**
-		> 1-sok szólam (általában szóló vagy két hegedű [[basso continuo|continuo]] kísérettel)
+		> 1-sok szólam (általában szóló vagy két hegedű [[basso continuo]] kísérettel)
 		> **de** az olaszoknál két típusa van:
 		> 	[[sonata da chiesa]] = templomi szonáta
 		> 	[[sonata da camera]] = szobai szonáta (tánc)

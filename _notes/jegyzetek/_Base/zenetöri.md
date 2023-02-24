@@ -1,5 +1,4 @@
 ---
-banner: "https://esterhazy.at/user/images/a-Schloss-Esterhazy/_1200x630_crop_center-center_82_none/Schloss-Esterhazy-Geschichte_-historisch-cEsterhazy.jpg?mtime=1562681232"
 title: Zenetöri
 feed: hide
 date: 2023-02-20 19:34
@@ -11,7 +10,7 @@ alias: zenetörténet, zenetörténelem
 [Zenetöri olvasnivalók, ajánlott irodalom](https://icedrive.net/s/7YZhDhV1uXV823hAT9xiSAXC34uZ)
 
 ## Első félév - Középkor-reneszánsz (FG)
-[[zenetöri 1. félév vizsga]]
+[[zenetöri 1 félév vizsga]]
 
 1. [[A középkori zene]]
 
@@ -33,9 +32,9 @@ alias: zenetörténet, zenetörténelem
 
 
 ## Második félév - Barokk (FG)
-[[zenetöri 2. félév syllabus]]
+[[zenetöri 2 félév syllabus]]
 
-[[zenetöri 2. félév összefoglalás]]
+[[zenetöri 2 félév összefoglalás]]
 
 1. [[A barokk zenéről általában]]
 

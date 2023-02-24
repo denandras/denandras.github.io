@@ -17,7 +17,7 @@ permalink: /Francia barokk
     -   franciaország már egységes
         -   központi királyi hatalom
         -   [[Mazarin]] (bíboros) vezeti az országot Lajos anyjával
-        -   [[XIV. Lajos]] (1661- király -1715)
+        -   [[XIV Lajos]] (1661- király -1715)
         -   Zene és politika szoros kapcsolata
         -   Zenei ízlést egy nagyon szűk kör határozta meg
         -   [[Lully]] balettje miatt lett "Napkirály"

@@ -1,5 +1,9 @@
 ---
 #zenetöri #mű
+title: Schubert - An der Mond
+feed: show
+date: 2023-02-09 21:16
+permalink: /Schubert - An der Mond
 ---
 [A Holdoz]
 

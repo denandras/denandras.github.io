@@ -10,7 +10,7 @@ Girolamo Frescobaldi
 	- Toccatak és Partiták
 		- ne legyen egyenletes
 		- egy-egy toccata nem feltétlenül végigjátszandó
-		- a mű fogalma a [[A barokk zenéről általában|barokk]]ban képlékeny
+		- a mű fogalma a barokkban képlékeny
 		- zeneszerző és zenész kollégák
 		- toccare = megérint (bármely virtuóz billentyűs darab)
 		- partita = variációsorozat, vagy tánctételek gyűjteménye

@@ -35,7 +35,7 @@ Humanista gondolkodás
 -   [[basso continuo]], operaszerű, recitált ének
 - két költő: [[Ottavino Rinuccini]] & [[Gabriello Chiabrera]]
 
-Az első operák - azt hitték, hogy az antik drámákat végigénekelték -> [[A barokk zenéről általában|barokk]]
+Az első operák - azt hitték, hogy az antik drámákat végigénekelték -> barokk
 
 -   **[[Jacopo Peri]]**: Daphne
     -   **[[Marco da Gagliano]]**: Daphne

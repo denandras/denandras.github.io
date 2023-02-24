@@ -44,7 +44,7 @@ __________________
 	- ókor: kórus, nem zenekar
 	- szólistákat nem dughatjuk el
 	- többszólamúság
-- nem érvekre szoruló, ösztönszerű megmozdulás, ettől [[Humanizmus|humanista]]
+- nem érvekre szoruló, ösztönszerű megmozdulás, ettől [humanista](Humanizmus)
 	- drámai hajlam, tragédia vágya
 
 ## Fázisai
@@ -74,7 +74,7 @@ __________________
 	- (pápát is adtak a világnak)
 	- imádták az operát
 	- szentek életét dolgozták fel
-	- [[Stefano Landi]]: [[St. Alessio]] (Szent Elek)
+	- [[Stefano Landi]]: [[St Alessio]] (Szent Elek)
 		- 6 kasztrált énekes
 	- opera műfaj hatása az Alpokon túl
 		- Firenzében [[Giulio Caccini]] lánya, Francesca operája
@@ -92,11 +92,11 @@ __________________
 	- Pápa kiközösíti
 
 ## Adalék
-###  [[Rupert Christiansen - The Faber Pocket Guide to Opera|R. C. Pocket Guide to Opera]]
+###  [[Rupert Christiansen - The Faber Pocket Guide to Opera]]
 * Franciaország: [[Rameau]]: nagyobb hangsúly a kóruson, a balett jelenléte
 - Anglia: [[Purcell]] és [[John Blow]] [[intermedio]]k és kisebb operák
 - [[Händel]] [[Alessandro Scarlatti]] innovációit használta ^handelopera
 	- nagyobb zenekar
-	- nagyobb ária -> [[opera seria|opera seria]] fontos eleme
+	- nagyobb ária -> [[opera seria]] fontos eleme
 	- `1710:` London - 30 év munka, [[opera seria]]k
 	- - [[Antonio Vivaldi]] 40 opera seriaja

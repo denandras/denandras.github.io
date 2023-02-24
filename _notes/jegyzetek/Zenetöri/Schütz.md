@@ -1,5 +1,8 @@
 ---
-alias: Schütz
+title: Schütz
+feed: show
+date: 2022-12-23 17:30
+permalink: /Schütz
 #zenetöri #személy
 ---
 Heinrich Schütz

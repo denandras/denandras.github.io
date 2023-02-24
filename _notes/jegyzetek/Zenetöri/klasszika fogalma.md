@@ -56,7 +56,7 @@ egyszerűsége -><- barokk polifónia
 - 1770 körül képtelenségnek hat a 40-es hangszerelés
 - **hangszerek**: gamba -> gordonka, violacsalád -> hegedűcsalád, feszes-egyenes vonók, harántfuvola, fejlettebb kürt, oboa, pedálhárfa, újdonság: klarinét
 - csembaló helyett önmagában kísér a zenekar
-- nagy karmester-egyéniségek: [[Gossec]], [[Sammartini]], [[Jommelli]], [[Johann Stamitz]], [[Gluck|Gluck]], [[Haydn]]
+- nagy karmester-egyéniségek: [[Gossec]], [[Sammartini]], [[Jommelli]], [[Johann Stamitz]], [[Gluck]], [[Haydn]]
 
 
 [^1]: [[Edward J Dent Italian Opera in the 18th Century]], [[Fischer A bécsi klasszikus stílus fejlődéséhez]], [[Adler a bécsi klasszikus iskola]], [[Charles Rosen A klasszikus stílus]], [[Jones Music in Vienna]], [[Webster 19th Century Music]], [[Komlós Katalin Fortepianók és zenéjük]]

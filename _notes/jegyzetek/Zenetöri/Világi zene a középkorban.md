@@ -1,5 +1,9 @@
 ---
 #zenetöri #tétel
+title: Világi zene a középkorban
+feed: show
+date: 2023-01-19 17:25
+permalink: /Világi zene a középkorban
 ---
 
 -   `19.  századig` a világi zene nagyban hasonlít az egyházi zenére, a kezdetekben volt, hogy vallásos énekek dallamaira új szövegeket írtak
