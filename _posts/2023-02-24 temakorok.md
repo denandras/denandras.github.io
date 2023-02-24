@@ -1,6 +1,5 @@
 ---
 title: Témakörök
-format: Post
 ---
 
 - ### [[Zenetöri]]
