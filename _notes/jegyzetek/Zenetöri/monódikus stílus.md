@@ -1,12 +1,15 @@
 ---
-alias: monódikus énekstílus
+title: monódikus stílus
+feed: show
+date: 2022-12-23 17:30
+permalink: /monódikus stílus
 #zenetöri #fogalom
 ---
 
 > hangszerkíséretes szólóének
 > "színpadi stílus", "énekelt recitálás" - beszéd és ének között
 
-## Eredete
+### Eredete
 [[Humanizmus]]
 - "a mai, a polifonikus zene egyenessn arculcsapása az antik gondolatnak, otromba germán modor"
 - szó, ritmus, hang

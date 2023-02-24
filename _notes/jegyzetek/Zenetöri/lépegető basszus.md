@@ -1,3 +1,0 @@
----
-#zenetöri #fogalom
----

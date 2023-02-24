@@ -1,5 +1,8 @@
 ---
 #zenetöri #személy
-alias: Liszt Ferenc
+title: Liszt
+feed: show
+date: 2022-12-23 17:30
+permalink: /Liszt
 ---
-
+Liszt Ferenc

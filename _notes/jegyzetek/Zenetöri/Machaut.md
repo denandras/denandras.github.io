@@ -1,7 +1,11 @@
 ---
 #zenetöri #személy #tétel
-alias: Gillaume de Machaut
+title: Machaut
+feed: show
+date: 2022-12-23 17:30
+permalink: /Machaut
 ---
+Gillaume de Machaut
 
 -   izoritmikus motetták
     -   az izoritmikus motettákat nem sok ember értette, csak egy szűk elit világ

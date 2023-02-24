@@ -1,9 +1,9 @@
 ---
 #zenetöri #személy
-title: Giovanni Battista Lully
+title: Lully
 feed: show
 date: 2022-12-23 17:30
-permalink: /Giovanni Battista Lully
+permalink: /Lully
 ---
 Giovanni Battista Lully
 [[Francia barokk]] megteremtője, olasz táncos-énekes
