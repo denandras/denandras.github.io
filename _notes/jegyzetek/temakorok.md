@@ -5,6 +5,7 @@ format: list
 ---
 
 - ### [[Zenetöri]]
-### - [[Akusztika]]
+- ### [[Akusztika]]
 - [[Népzene]]
 - [[Posztmodern]]
+- <a href="{{'/zenetöri' | relative_url}}"> Zenetöri </a>

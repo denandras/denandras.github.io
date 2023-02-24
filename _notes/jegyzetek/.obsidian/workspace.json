@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zenetöri/A középkori zene.md",
+                "file": "Zenetöri/zenetöri 1. félév vizsga.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "petra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zenetöri/A középkori zene.md",
+                "file": "Zenetöri/zenetöri 1. félév vizsga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zenetöri/A középkori zene.md",
+                "file": "Zenetöri/zenetöri 1. félév vizsga.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zenetöri/A középkori zene.md"
+                "file": "Zenetöri/zenetöri 1. félév vizsga.md"
               }
             }
           }
@@ -152,14 +152,19 @@
   "active": "3bf624b0bf3a3638",
   "lastOpenFiles": [
     "_Base/zenetöri.md",
+    "_Base/népzene.md",
+    "Akusztika/A fül anatómiai szerkezete.md",
+    "Zenetöri/Petrarca.md",
+    "Akusztika/pszichoakusztika.md",
+    "Akusztika/formáns.md",
+    "Akusztika/Werner Heisenberg.md",
+    "Zenetöri/A középkori zene.md",
     "Zenetöri/Machaut.md",
     "_Base/akusztika.md",
     "Akusztika/teremtörténet.md",
     "temakorok.md",
     "2023-02-24 temakorok.md",
-    "Akusztika/pszichoakusztika.md",
     "Akusztika/posztulátum.md",
-    "_Base/népzene.md",
     "_Base/posztmodern.md",
     "Zenetöri/ballada.md",
     "Zenetöri/Goethe.md",
@@ -167,7 +172,6 @@
     "Akusztika/Időérzékelés.md",
     "Akusztika/hangterjedés.md",
     "Akusztika/hangszigetelés.md",
-    "Akusztika/formáns.md",
     "Akusztika/Békésy György.md"
   ]
 }

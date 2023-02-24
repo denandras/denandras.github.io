@@ -11,23 +11,24 @@ permalink: /A fül anatómiai szerkezete
 
 ### Fül
 - ha fáj, akkor vesszük tudomásul, hogy van
-- 1. [[posztulátum]]: mindenki azt hall, amit hall
+1. [[posztulátum]]: mindenki azt hall, amit hall
 - a befelé figyelő fül és a hegyezett fül
 - a belső fül picike, a dobhártya 1 cm², érzékeny a szúrásra
 - a fülszőr véd a portól, valamint a rovaroktól
 - magas hangokat jobban halljuk (gyermekek, madarak)
+
 - #### Külső fül
 	- fülkagyló: irányok megkülönböztetése, 2 van ugyanezért
 		- fülkagyló-deformáció: az első trimeszterben lehet rá befolyás
 	- elálló fül jobban hall
 		- az aszimmetrikus fül jobb térbeli tájékozódást jelent
 	- cimpás, cimpátlan fül
-	
+
 - #### Középfül
 	- középfül csontjai nem nőnek
 	- a rezgést átalakítják szilárdtest-mozgássá
 	- nagy felület összegyűjti, 27x-re erősíti a hangot
-	
+
 - #### Belső fül
 	- a csont, csontos és hártyás labirintus védi az egészet - rombolható
 	- **dobhártya**

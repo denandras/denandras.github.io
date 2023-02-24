@@ -7,8 +7,6 @@ permalink: /pszichoakusztika
 ---
 *Sachs könyve, a Szalontüdő*
 
-- ### Pszichoakusztika
-
 - a hangok pszichológiája
 - a hangok objektivitása (tudomány relatív objektivitása)
 	- axiómarendszerek (Gödel szerint lehet olyat mondani, ami nem tudjuk, hogy igaz-e)
@@ -100,7 +98,7 @@ permalink: /pszichoakusztika
 
 
 > Kvantummechanika
-> Akusztikai határozatlansági reláció
+> 	Akusztikai határozatlansági reláció
 	([[Werner Heisenberg]])
 	a fizikai felfogásunk a *mi és hol lesz mikor*-on alapul
 	mikrorészek világában nem lehet ilyen
