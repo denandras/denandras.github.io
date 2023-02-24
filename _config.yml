@@ -36,7 +36,7 @@ copyright:
 # Set title and content for private & broken link tooltop
 privatelinks:
   title: 404
-  msg: A keresett oldal privát, vagy nem létezik.
+  msg: Az oldal nem létezik.
 
 # Theme level preferences
 # To enable set "enabled : true" else, use "enabled:false"

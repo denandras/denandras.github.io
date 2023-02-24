@@ -5,7 +5,6 @@
 - német irodalmi népiesség irányzata
 - egyszerű strófikus költemények
 - könnyen megzenésíthető
--------
 
 *(további információk)*
 
