@@ -1,6 +1,10 @@
 ---
 alias: vígopera, dramma giocoso
 #zenetöri #fogalom #műfaj
+title: opera buffa
+feed: show
+date: 2022-12-23 17:30
+permalink: /opera buffa
 ---
 > komikus intermezzo: rövid
 > rövid és éles [[opera]], általában úr-szolga vagy szerető-szobalány viszony intrikáit mutatja be.

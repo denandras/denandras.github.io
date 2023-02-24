@@ -1,12 +1,8 @@
 ---
-banner: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Domenico_Cimarosa_%28recomposed%29.jpg"
-banner_y: 0.10484
----
----
 #zenetöri #személy
 alias: Domenico Cimarosa
 banner: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Domenico_Cimarosa_%28recomposed%29.jpg"
-banner_y: 0.092
+banner_y: 0.104
 ---
 
 ==1749-1801==
