@@ -2,7 +2,7 @@
 #akusztika
 title: Akusztika fogalmak
 feed: show
-date: 2023-02-24 14:23
+date: 2023-01-24 14:23
 permalink: /Akusztika fogalmak
 ---
 
