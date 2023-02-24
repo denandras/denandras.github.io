@@ -5,7 +5,7 @@ feed: show
 date: 2022-12-23 17:30
 permalink: /opera comique
 ---
-[[Kroó György: A szabadító opera]]
+[[Kroó György - A szabadító opera]]
 
 > szélesebb nyilvánosság elé fordult (tehát a polgárok kiváltsága volt) (a vásári játékok művelése és befogadása persze elérhető volt bárki számára)
 

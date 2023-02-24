@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zenetöri/motetta.md",
+                "file": "Zenetöri/párizsi chanzon.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zenetöri/motetta.md",
+                "file": "Zenetöri/párizsi chanzon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zenetöri/motetta.md",
+                "file": "Zenetöri/párizsi chanzon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zenetöri/motetta.md"
+                "file": "Zenetöri/párizsi chanzon.md"
               }
             }
           }
@@ -151,31 +151,31 @@
   },
   "active": "6610c07d2b060bda",
   "lastOpenFiles": [
-    "Zenetöri/Monteverdi.md",
-    "Zenetöri/Montesquieu.md",
-    "Zenetöri/monódikus stílus.md",
-    "Zenetöri/Mondonville.md",
-    "Zenetöri/Moliére.md",
-    "Zenetöri/Missa Hercules.md",
-    "Zenetöri/menüett.md",
-    "Zenetöri/Michelangelo.md",
-    "Zenetöri/Medici család.md",
-    "Zenetöri/Mendelssohn.md",
-    "Zenetöri/mediáns.md",
-    "Zenetöri/Mazarin.md",
-    "Zenetöri/Marsilio Ficino.md",
-    "Zenetöri/márki.md",
-    "Zenetöri/Marco da Gagliano.md",
-    "Zenetöri/manierizmus.md",
-    "Zenetöri/madrigál.md",
-    "Zenetöri/Machaut.md",
-    "Zenetöri/Lully.md",
-    "Zenetöri/Luca Marenzio.md",
-    "Zenetöri/Lodovico Giustini.md",
-    "Zenetöri/Liszt.md",
-    "Zenetöri/Les Trosqueurs.md",
-    "Zenetöri/Leopold Mozart.md",
-    "Zenetöri/Les Adieux.md",
-    "Zenetöri/lépegető basszus.md"
+    "Zenetöri/Palestrina.md",
+    "Zenetöri/Pál Antal herceg.md",
+    "Zenetöri/Paisiello.md",
+    "Zenetöri/Ottavio Petrucci.md",
+    "Zenetöri/Ottavino Rinuccini.md",
+    "Zenetöri/Orfeo.md",
+    "bacchánsnő.md",
+    "Zenetöri/opera seria.md",
+    "Zenetöri/oratórium.md",
+    "Zenetöri/opera comique.md",
+    "Zenetöri/opera buffa.md",
+    "Zenetöri/opera a 18 század közepén.md",
+    "Zenetöri/opera.md",
+    "Zenetöri/Oliver Cromwell.md",
+    "Zenetöri/Olasz és francia opera a 19. században.md",
+    "Zenetöri/Oedipus királya.md",
+    "Zenetöri/Ockeghem.md",
+    "Zenetöri/Nicola Porpora.md",
+    "Zenetöri/Neefe.md",
+    "Zenetöri/Nagy Frigyes.md",
+    "Zenetöri/Müncheni szonáták.md",
+    "Zenetöri/Mozart - Trois Sonates.md",
+    "Zenetöri/Mozart.md",
+    "Zenetöri/Clavichord.md",
+    "Zenetöri/motetta.md",
+    "Zenetöri/Monteverdi.md"
   ]
 }

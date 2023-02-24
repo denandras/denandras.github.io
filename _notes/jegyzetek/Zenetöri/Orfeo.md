@@ -1,14 +1,18 @@
 ---
-alias: Orfeo és Eurüdiké, Orfeo et Eurudice, L'Orfeo
+title: Orfeo
+feed: show
+date: 2022-12-23 17:30
+permalink: /Orfeo
 #zenetöri #mű
 ---
-[[Monteverdi|Claudio Monteverdi]], 1607, Mantova
-műfaj: *"favola di musica"* = zenei színmű, *"dramma per musica"* = dráma zenén keresztül
+Orfeo et Eurudice
+- [[Monteverdi]], 1607, Mantova
+- műfaj: *"favola di musica"* = zenei színmű, *"dramma per musica"* = dráma zenén keresztül
 
 - nem az első [[opera]]
 	- [[Jacopo Peri]] Daphne
 	- Eurudice-feldolgozások
-- keletkezés: hercegek közti [[opera#^versenges]]
+- keletkezés: hercegek közti [versengés](opera)
 	- mantovai herceg ott volt az esküvőn
 	- akart egy saját operát
 - levelek
@@ -33,7 +37,7 @@ műfaj: *"favola di musica"* = zenei színmű, *"dramma per musica"* = dráma ze
 - 2 csembaló
 - 2 duplahárfa
 - orgona
-- harsonák ([[sackbutt]])
+- harsonák ([[sackbut]])
 - stb.
 
 ### Története
@@ -43,14 +47,14 @@ műfaj: *"favola di musica"* = zenei színmű, *"dramma per musica"* = dráma ze
 - meggyőzi énekével az alvilág urát, hogy visszaszerezze
 	- neki kell elöl mennie, és nem nézhet vissza
 	- visszanéz, és örökre elveszíti
-	- meggyűlöli a nőket és szerelmet <- a [bacchánsnők](http://www.kislexikon.hu/bacchansno.html) széttépik
+	- meggyűlöli a nőket és szerelmet <- a [[bacchánsnő]]k széttépik
 	- **változás:** apja az égből lenyúl érte, aztán örökké nézheti szerelme égi képét (egy csillag formájában)
 
 > a szakítás olyan, mint a halál. Ha újraindul, vajon jót tesz-e? A bizalom megvan-e?
 
-> Rheiner Maria Rilke: *Orfeusz, Eurüdiké, Hermész* vers
-> Hermész: - Visszanézett.
-> Eurüdiké: - Ki?
+> Rheiner Maria [[Rilke]]: *Orfeusz, Eurüdiké, Hermész* vers
+> 	Hermész: - Visszanézett.
+> 	Eurüdiké: - Ki?
 
 ### Szereplők
 *(egy kivételével mindet az udvar alkalmazta)*
