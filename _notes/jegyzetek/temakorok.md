@@ -1,5 +1,7 @@
 ---
 title: Témakörök
+permalink: /temakorok
+format: list
 ---
 
 - ### [[Zenetöri]]

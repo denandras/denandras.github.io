@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Akusztika/teremtörténet.md",
+                "file": "Zenetöri/A középkori zene.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Akusztika/teremtörténet.md",
+                "file": "Zenetöri/A középkori zene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Akusztika/teremtörténet.md",
+                "file": "Zenetöri/A középkori zene.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Akusztika/teremtörténet.md"
+                "file": "Zenetöri/A középkori zene.md"
               }
             }
           }
@@ -151,18 +151,19 @@
   },
   "active": "3bf624b0bf3a3638",
   "lastOpenFiles": [
+    "_Base/zenetöri.md",
+    "Zenetöri/Machaut.md",
+    "_Base/akusztika.md",
+    "Akusztika/teremtörténet.md",
     "temakorok.md",
     "2023-02-24 temakorok.md",
     "Akusztika/pszichoakusztika.md",
     "Akusztika/posztulátum.md",
-    "_Base/akusztika.md",
     "_Base/népzene.md",
-    "_Base/zenetöri.md",
     "_Base/posztmodern.md",
     "Zenetöri/ballada.md",
     "Zenetöri/Goethe.md",
     "Témakörök.md",
-    "Akusztika/teremtörténet.md",
     "Akusztika/Időérzékelés.md",
     "Akusztika/hangterjedés.md",
     "Akusztika/hangszigetelés.md",
