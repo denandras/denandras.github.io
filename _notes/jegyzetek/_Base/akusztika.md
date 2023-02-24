@@ -1,4 +1,3 @@
-
 ---
 #akusztika
 title: akusztika
