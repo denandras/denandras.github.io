@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "0df33b27baa60fc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "dde4573fed18295c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_Base/akusztika.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5e04bc010b42fea",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "366234b27ae881cd",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "7105166699f04c7d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "21cc77b86011c9fd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1be6142f66db8163",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "540d71d66def8cc8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1895d589f7cce2e1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "_Base/akusztika.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bc1be36707e3d933",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "_Base/akusztika.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6575ccee04d134bc",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "_Base/akusztika.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "7105166699f04c7d",
+  "lastOpenFiles": [
+    "posztulátum.md",
+    "_Base/akusztika.md",
+    "Akusztika/Akusztika 0.md",
+    "Zenetöri/klasszika fogalma.md",
+    "Zenetöri/Goethe.md",
+    "_Base/zenetöri.md",
+    "Files/akusztika/Akusztika 1-2.pdf",
+    "Zenetöri/Beethoven.md",
+    "Zenetöri/Egmont.md",
+    "Zenetöri/Johann Rochlitz.md"
+  ]
+}

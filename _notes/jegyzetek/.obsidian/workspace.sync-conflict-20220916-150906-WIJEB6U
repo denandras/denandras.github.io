@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "0df33b27baa60fc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "dde4573fed18295c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_Base/zenetöri.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60a856f127c18aec",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cd4c142a9bc669d1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "2411a09fe75fa90b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "596d7392dd895f7c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "8e4b6b4f53a73625",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4fe89a39e1e7b7ea",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b3fad8957bde9111",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "_Base/zenetöri.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6fe07dbde58447e3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "_Base/zenetöri.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7df7dbdf99d42efb",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "_Base/zenetöri.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "dde4573fed18295c",
+  "lastOpenFiles": [
+    "Zenetöri/klasszikus billentyűs szonáta.md",
+    "Zenetöri/Haydn.md",
+    "Zenetöri/Carl Philipp Emanuel Bach.md",
+    "Zenetöri/45. szimfónia.md",
+    "Telemann.md",
+    "Nagy Frigyes.md",
+    "Zenetöri/Bach.md",
+    "Zenetöri/Johann Christian Bach.md",
+    "Zenetöri/Domenico Alberti.md",
+    "Alberti-basszus.md"
+  ]
+}

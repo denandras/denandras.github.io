@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "0df33b27baa60fc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "dde4573fed18295c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_Base/zenetöri.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b099026df1ea3933",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9b9121abf1deb39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65f30a2466611e04",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff2c9fd0c33c95ec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "429fed09e8a20407",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5593e4e19f116482",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2a3c1b1d3c919f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2f1530ab33ac127",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Base/zenetöri.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff07fa82ed0b88a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_Base/zenetöri.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a43c4a7f2f593330",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9ebe7a67ef5219b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_Base/zenetöri.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dde4573fed18295c",
+  "lastOpenFiles": [
+    "_Base/akusztika.md",
+    "_Base/zenetöri.md",
+    "Zenetöri/Faust.md",
+    "Zenetöri/Don Giovanni.md",
+    "Zenetöri/klasszikus billentyűs szonáta.md",
+    "Zenetöri/klasszika fogalma.md",
+    "Zenetöri/felvilágosodás.md",
+    "Zenetöri/racionalizmus.md",
+    "Zenetöri/Beethoven.md",
+    "Zenetöri/Lodovico Giustini.md"
+  ]
+}

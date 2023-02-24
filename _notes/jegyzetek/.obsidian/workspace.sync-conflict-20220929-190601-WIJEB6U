@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "0df33b27baa60fc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "dde4573fed18295c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_Base/akusztika.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af464afc737672c1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "263f8fa31e9bf7e2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "2b118b099b179511",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "48f2e9d94faf1275",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "052303d0a5aacbb5",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "14b9b794ddf762c3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0c84edc6feaeadaa",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "_Base/akusztika.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3f67573d6c041371",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "_Base/akusztika.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "46445457bf2e62d4",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "_Base/akusztika.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "dde4573fed18295c",
+  "lastOpenFiles": [
+    "Zenetöri/concerto.md",
+    "Zenetöri/klasszikus billentyűs szonáta.md",
+    "Zenetöri/Domenico Scarlatti.md",
+    "Zenetöri/Lodovico Giustini.md",
+    "_Base/zenetöri.md",
+    "_Base/akusztika.md",
+    "Békésy György.md",
+    "Files/akusztika/Akusztika 1-2.pdf",
+    "Akusztika/Akusztika 0.md",
+    "Zenetöri/klasszika fogalma.md"
+  ]
+}

@@ -1,0 +1,13 @@
+---
+#zenetöri #mű
+---
+
+[[Mozart]] 1775-ben írta ezt a darabot [[Thaddäus von Dürnitz]]-nek. Ekkor 19 éves volt. Pár éves európai körút után 1773-ban Salzburgban kapott állást udvari zenészként. Szerette ezt a várost, mert sok barátja lakott ott.
+Itt sok műfajban alkotott: szimfóniák, vonósnégyesek, misék, szerenádok, kisebb operák, valamint [[szonáta]]-kat is papírra vetett.
+Érződik rajta apja, [[Leopold Mozart]] stílusa.
+
+### Formatan
+Teljesen szabályos [[szonáta]]forma, rövidke kidolgozással. A darab B dúrban indul és ér véget. Gyönyörűen körbejárja a B dúr körüli hangnemeket, elmegy a dominánsa felé, majd visszatér a párhuzamos moll felől.
+Az első témacsoport tulajdonképpen egy témát tartalmaz, egy gondolat mutatkozik meg. Ez a 10. ütem zárlatáig tart. Ezután következik egy átvezetés, amely 8+11 ütem alatt domináns hangnembe tér át, ez először csak funkcióként jelenik meg a 8. ütemben, majd átmodulál, ez a basszus hangjain a zárlatnál is lárszik. Ezt követi a második témacsoport, ez már hosszabb, mint az első, 17 ütemből áll, azért ez a furcsa szám, mert van benne egy elízió a 8. ütemben, és nyomatékosítva ezt a témát, egy 4 ütemes belső bővülés is.
+A kidolgozásban megjelenik a g-moll, és ebben a hangnemben is bontakozik ki. Ez egy 16+2 ütemes rész, az utolsó két ütemben egy kadencia szerű, egy szólamú motívum jelenik meg, amel, rávezet a visszatérésre.
+Ez eredeti hangnemben indul el, és az első tcs. ugyanúgy megismétlődik. Az átvezetésben, amely 20 ütemes, megjelenik egy új gondolat, már használt ritmussal a c-moll, de visszakanyarodik B felé. A 17 ütemes második tcs. egy az egyben megismétlődik, de immár B dúrban az előbbi F helyett, és így bezárul a kör, egy szép egészt alkot.

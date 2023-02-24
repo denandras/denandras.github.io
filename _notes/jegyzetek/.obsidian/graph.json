@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "#zenetöri",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "Tétel",
+      "color": {
+        "a": 1,
+        "rgb": 14290960
+      }
+    },
+    {
+      "query": "Személy",
+      "color": {
+        "a": 1,
+        "rgb": 16768256
+      }
+    },
+    {
+      "query": "Fogalom",
+      "color": {
+        "a": 1,
+        "rgb": 8553090
+      }
+    },
+    {
+      "query": "Mű",
+      "color": {
+        "a": 1,
+        "rgb": 1751807
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.592857142857143,
+  "repelStrength": 13,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.25407959732719065,
+  "close": true
+}

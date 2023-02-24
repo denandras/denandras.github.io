@@ -1,0 +1,4 @@
+---
+alias: Pluhar
+#zenetöri #személy
+---

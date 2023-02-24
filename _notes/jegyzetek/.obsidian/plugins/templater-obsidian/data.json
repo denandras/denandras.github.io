@@ -1,0 +1,39 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Files/templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Akusztika",
+      "template": "Files/templates/t_akusztika.md"
+    },
+    {
+      "folder": "Zenetöri",
+      "template": "Files/templates/t_zenetöri.md"
+    },
+    {
+      "folder": "/",
+      "template": "Files/templates/t_zenetöri.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    "Files/templates/t_akusztika létező front.md",
+    "Files/templates/t_zenetöri létező front.md"
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

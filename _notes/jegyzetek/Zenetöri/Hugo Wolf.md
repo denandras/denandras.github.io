@@ -1,0 +1,9 @@
+- ==1860-1903==
+- Windischgraz
+- baráti körében [[Mahler]]
+- fiatalkorában szifiliszes lett bordélyházakban
+	- későbbi elmebaj
+- [[Wagner]]-rajongó
+- csaknem kizárólag szóló dalok
+	- költők szerint publikálva
+- [[Möricke]], [[Eichendorf]], [[Goethe]] versei

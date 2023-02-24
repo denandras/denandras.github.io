@@ -1,0 +1,22 @@
+---
+#zenetöri #személy
+alias: Johannes Brahms
+---
+==1833-1897==
+[[Ludwik Erhardt - Brahms]]
+
+- romantikus zeneszerzők között fiatal generáció tagja
+	- német dalrepertoár jelentős szerzője
+- hamburgi születés -> Bécs
+- koncertező zongorista
+- karnagy Singakademie-n
+- konzervatívabb irányzat
+- [[Schumann]] a felfedezője (cikk róla)
+
+- dalciklusai
+- Stochkausennek (énekes) írta Tieck elbeszélésének versbetéteire
+	- kísérte is őt
+	- ő tette divattá az egyben történő előadást
+	- Romanzen aus L Tiecks
+	- amíg a lány elalszik, egy holló ellopja a 3 gyűrűt, amit a fiú adott neki
+		- történet többi része ==kijegyzetelendő==

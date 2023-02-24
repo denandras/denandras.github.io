@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "0df33b27baa60fc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e04b545a4e40a92",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Files/akusztika/akuszika képek.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3114d1369036fcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a97925fb0765da2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "befb737fdff3296a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cf76e4c3cefa897c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3885e2ce0e109b64",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c8ddd1b2f3f9a7f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "caed7d262f291009",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e140534730aabbaa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Files/akusztika/akuszika képek.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43b8fbc007f3eeb4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Files/akusztika/akuszika képek.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc3843439c1e6249",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "96a805b6d39c5980",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Files/akusztika/akuszika képek.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7e04b545a4e40a92",
+  "lastOpenFiles": [
+    "Files/akusztika/20221009_213542-001.webp",
+    "Files/akusztika/akuszika képek.md",
+    "Files/akusztika/20221011_215220.webp",
+    "Files/akusztika/20221011_215206.webp",
+    "Files/akusztika/1665514486215.webp",
+    "Files/Secure/this-is-a-secure-note-2d3jbo2487gvbuv34iurvbljsfer.md",
+    "Files/Secure/shared-4b3z9ofub3opiqubw3j4qngeiuesnekb5pnuignskbp4ingj5kr.md",
+    "_Base/akusztika.md",
+    "Files/zenetori/klasszika.jpeg",
+    "_Base/zenetöri.md"
+  ]
+}

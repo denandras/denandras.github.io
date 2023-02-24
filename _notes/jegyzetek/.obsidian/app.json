@@ -1,0 +1,19 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:insert-wikilink",
+    "editor:swap-line-up",
+    "editor:swap-line-down",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-highlight",
+    "editor:insert-link",
+    "editor:insert-callout"
+  ],
+  "mobilePullAction": "global-search:open"
+}

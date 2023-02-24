@@ -1,0 +1,182 @@
+{
+  "workspaces": {
+    "Study": {
+      "main": {
+        "id": "0df33b27baa60fc5",
+        "type": "split",
+        "children": [
+          {
+            "id": "625f8c741e320fb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zenetöri.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "50f8ea2461092480",
+        "type": "split",
+        "children": [
+          {
+            "id": "45e1a08dafe72a4d",
+            "type": "tabs",
+            "dimension": 55.20934761441091,
+            "children": [
+              {
+                "id": "f6f10a8e1d651304",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ae4b26f0f9bb4dc2",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "99cc7786764c317d",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "65c7cad5e645e7ce",
+            "type": "tabs",
+            "dimension": 44.7906523855891,
+            "children": [
+              {
+                "id": "0f68e636c93454dc",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Domenico Scarlatti.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.36288736930121374,
+                      "close": true
+                    }
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "21f651ef0b571366",
+        "type": "split",
+        "children": [
+          {
+            "id": "1d03513a6bd80cd0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8eb13fbb12552f3d",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "zenetöri.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "31044f814f61ae46",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "zenetöri.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "beb4a5ec36574068",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "31009d7154df8f61",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "zenetöri.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "625f8c741e320fb4"
+    }
+  },
+  "active": "Study"
+}

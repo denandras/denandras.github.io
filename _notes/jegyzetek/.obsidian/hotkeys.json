@@ -1,0 +1,42 @@
+{
+  "insert-template": [],
+  "app:open-help": [],
+  "editor:follow-link": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:toggle-checklist-status": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ],
+  "theme:use-light": [],
+  "theme:use-dark": [],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "obsidian-fullscreen-plugin:fullscreen-focus": [
+    {
+      "modifiers": [],
+      "key": "F11"
+    }
+  ],
+  "templater-obsidian:Files/templates/t_zenetöri.md": [],
+  "templater-obsidian:Files/templates/t_zenetöri létező front.md": [
+    {
+      "modifiers": [],
+      "key": "F1"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+---
+#zenetöri #fogalom
+---
+
+[[Descartes]]
