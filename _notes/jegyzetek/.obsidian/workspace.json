@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Base/akusztika.md",
+                "file": "_Base/zenetöri.md",
                 "mode": "source",
                 "source": true
               }
@@ -164,17 +164,18 @@
   },
   "active": "3d2bdb3af132a9e2",
   "lastOpenFiles": [
+    "_Base/zenetöri.md",
     "_Base/akusztika.md",
-    "Akusztika/Akusztika fogalmak.md",
+    "_Base/posztmodern.md",
+    "_Base/népzene.md",
     "Akusztika/Akusztika tételek.md",
+    "Akusztika/Akusztika fogalmak.md",
     "Else/temakorok.md",
     "Files/templates/t_basic template.md",
     "Files/templates/t_zenetöri.md",
     "Files/templates/t_zenetöri létező front.md",
     "Files/templates/t_akusztika létező front.md",
     "Files/templates/t_akusztika.md",
-    "_Base/zenetöri.md",
-    "_Base/népzene.md",
     "Zenetöri/Wagner.md",
     "Akusztika/A fül anatómiai szerkezete.md",
     "Zenetöri/Singspiel.md",
@@ -188,7 +189,6 @@
     "Zenetöri/Baldassare Galuppi.md",
     "Zenetöri/tragedie en musique.md",
     "Zenetöri/szimfónia.md",
-    "Zenetöri/vonósnégyes.md",
-    "Zenetöri/zenetöri 1. félév vizsga.md"
+    "Zenetöri/vonósnégyes.md"
   ]
 }

@@ -4,7 +4,6 @@ feed: show
 date: 2023-02-24 14:29
 permalink: /Akusztika tételek
 #akusztika
-format: list
 alias:
 ---
 
