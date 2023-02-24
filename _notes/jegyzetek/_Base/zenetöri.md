@@ -77,9 +77,9 @@ alias: zenetörténet, zenetörténelem
 
 8. [[Mozart]] és a [[Singspiel]]
 
-> 10. *Beethoven operája* (kimaradt, függőben)
+9. *[[Beethoven operája]]* (kimaradt, függőben)
 
-> 11. *Haydn és az oratórium* (kimaradt, függőben)
+10. *[[Haydn és az oratórium]]* (kimaradt, függőben)
 
 ## Negyedik félév - Romantika (BP)
 
