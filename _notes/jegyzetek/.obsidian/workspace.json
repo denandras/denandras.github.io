@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Base/akusztika.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b20d7284080d3b81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zenetöri/Világi műfajok a 16. században.md",
+                "file": "Akusztika/teremtörténet.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Base/akusztika.md",
+                "file": "Akusztika/teremtörténet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Base/akusztika.md",
+                "file": "Akusztika/teremtörténet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Base/akusztika.md"
+                "file": "Akusztika/teremtörténet.md"
               }
             }
           }
@@ -164,7 +151,19 @@
   },
   "active": "7878f6a30483c86a",
   "lastOpenFiles": [
-    "Zenetöri/Világi műfajok a 16. században.md",
+    "Akusztika/pszichoakusztika.md",
+    "Akusztika/posztulátum.md",
+    "Akusztika/hangterjedés.md",
+    "Akusztika/hangszigetelés.md",
+    "Akusztika/Békésy György.md",
+    "Akusztika/formáns.md",
+    "Akusztika/Az agy.md",
+    "Akusztika/Akusztika fogalmak.md",
+    "Akusztika/Akusztika tételek.md",
+    "Akusztika/A fül anatómiai szerkezete.md",
+    "_Base/zenetöri.md",
+    "_Base/posztmodern.md",
+    "_Base/népzene.md",
     "_Base/akusztika.md",
     "Files/templates/t_akusztika.md",
     "Files/templates/t_akusztika létező front.md",
@@ -172,23 +171,11 @@
     "Files/templates/t_zenetöri.md",
     "Files/templates/t_zenetöri létező front.md",
     "Files/templates/t_zenetöri létező front 1.md",
-    "Akusztika/Akusztika tételek.md",
-    "_Base/posztmodern.md",
-    "_Base/zenetöri.md",
-    "_Base/népzene.md",
+    "Zenetöri/Világi műfajok a 16. században.md",
     "Zenetöri/kíséretes szonáta.md",
     "Zenetöri/Idomeneo.md",
-    "Akusztika/Akusztika fogalmak.md",
     "Else/temakorok.md",
     "Zenetöri/Wagner.md",
-    "Akusztika/A fül anatómiai szerkezete.md",
-    "Zenetöri/Singspiel.md",
-    "Zenetöri/Mozart.md",
-    "Zenetöri/Egyházi zene a 17. században.md",
-    "Zenetöri/opera seria.md",
-    "Zenetöri/opera comique.md",
-    "Zenetöri/opera buffa.md",
-    "Zenetöri/opera a 18 század közepén.md",
-    "Zenetöri/Úrhatnám szolgáló.md"
+    "Zenetöri/Singspiel.md"
   ]
 }

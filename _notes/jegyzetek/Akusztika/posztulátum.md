@@ -6,4 +6,4 @@ date: 2022-12-23 17:30
 permalink: /posztulátum
 ---
 
-Alapközlés
+= alapközlés

@@ -4,9 +4,6 @@ feed: show
 date: 2023-02-24 14:23
 permalink: /akusztika fogalmak
 #akusztika
-format: list
-
-alias:
 ---
 
 afferens
