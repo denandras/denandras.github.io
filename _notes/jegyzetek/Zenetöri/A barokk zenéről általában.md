@@ -1,6 +1,9 @@
 ---
-alias: barokk
 #zenetöri #tétel
+title: A barokk zenéről általában
+feed: show
+date: 2022-12-23 17:30
+permalink: /A barokk zenéről általában
 ---
 
 > *[[Bach]] túl nagy hangsúlyt kapott az oktatásban, saját idejében kevésbé volt meghatározó*
@@ -14,7 +17,7 @@ alias: barokk
 [[barokk a hétköznapokban]]
 
 ### ==~1600~1730== ([[gáláns stílus]]sal vége)
-- [[Humanizmus|humanista]] értelmiségiek Itáliában - görög-római modellek a zenébe	
+- Humanista értelmiségiek Itáliában - görög-római modellek a zenébe	
 * szó:
 	- igazgyöngy-halászok elnevezése
 	- túlhajtott [[szillogizmus]], nyakatekert okoskodás
@@ -32,8 +35,8 @@ alias: barokk
 * szobor: [[Bernini]]: Apollón és Daphné
 		- Daphné átváltozik babérfává, mert így megmenekül
 
-### jelentős operák
-- [[Monteverdi]]: [[Orfeo|L'Orfeo]] (1607)
+### Jelentős operák
+- [[Monteverdi]]: [[Orfeo]] (1607)
 
 - [[Jean Philippe Rameau]]: [[Hyppolyte et Aricie]] - 1733
 
@@ -41,7 +44,7 @@ alias: barokk
 	* [[ars perfecta]] - [[Michelangelo]] Dávidja, statikus, tökéletes - [[reneszánsz]]
 		* meztelen, nyugodt
 
-### egyéges korszak
+### Egyéges korszak
 * változó világkép
 * [[Vincenzo Galilei]] fia: a Nap a világ középpontja ([[Galileo Galilei]])
 * [[Descartes]]
@@ -56,7 +59,7 @@ alias: barokk
 		* [[Pergolesi]]: [[Úrhatnám szolgáló]] - 1733
 	* sokkal ismertebb
 
-### jelentős zeneszerzők
+### Jelentős zeneszerzők
 * [[Bach]] H-moll mise - 1733
 	* 7 szólamú
 	* fúga

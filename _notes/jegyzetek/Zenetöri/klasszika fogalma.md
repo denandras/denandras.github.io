@@ -21,7 +21,7 @@ egyszerűsége -><- barokk polifónia
 - `20. sz.`  elején kezdték el használni
 - különbségek
 	- b. k. **stílus** [[Fischer A bécsi klasszikus stílus fejlődéséhez|Fischer klasszikáról]]
-	- b. k. iskola [[Adler a bécsi klasszikus iskola|Adler klasszikáról]]
+	- b. k. iskola [[Adler - a bécsi klasszikus iskola|Adler klasszikáról]]
 	- k. korszak [[Edward J Dent Italian Opera in the 18th Century|Dent Italian Opera]]
 - [[E T A Hoffmann]] romantikusnak mondta [[Beethoven]]t, pedig már akkoriban a klasszikussal szemben állt jelentése
 
