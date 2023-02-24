@@ -17,12 +17,12 @@ egyszerűsége -><- barokk polifónia
 - klasszika: olyan korszak, amely kiemelkedő alkotásokat eredményezett
 - **német** és magyar különbséget tesz: klasszicizmus pejoratív (ókori minták szolgai utánzása)
 - ([[Goethe]] és [[Schiller]]: [[weimari klasszika]])
-- [[Haydn]], [[Mozart]], [[Beethoven]] ([[Gluck|Gluck]], [[Schubert]])
+- [[Haydn]], [[Mozart]], [[Beethoven]] ([[Gluck]], [[Schubert]])
 - `20. sz.`  elején kezdték el használni
 - különbségek
 	- b. k. **stílus** [[Fischer a klasszikáról]]
-	- b. k. iskola [[Adler - a bécsi klasszikus iskola|Adler klasszikáról]]
-	- k. korszak [[Dent Italian Opera|Dent Italian Opera]]
+	- b. k. iskola [[Adler - a bécsi klasszikus iskola]]
+	- k. korszak [[Dent Italian Opera]]
 - [[E T A Hoffmann]] romantikusnak mondta [[Beethoven]]t, pedig már akkoriban a klasszikussal szemben állt jelentése
 
 ### Fogalma, periodizálása
@@ -50,13 +50,13 @@ egyszerűsége -><- barokk polifónia
 	- vissza a természethez! csak közérthetőt!
 - az [[opera]]t zenés tréfákkal ([[pasticcio]]kkal és [[vaudeville]]kkel) csúfolják
 - [[Nardini]] könnyeket hullat egy-egy lassú tételnél
-- a [[A barokk zenéről általában|barokk]] már túl feszült, túl emelt hangú
+- a barokk már túl feszült, túl emelt hangú
 - tisztább-kifejezőbb = kisigényű-szórakoztató?
 	- csak nincs olyan eszköztára, ezért kezdettől fogva az ötlet sem újszerű
 - 1770 körül képtelenségnek hat a 40-es hangszerelés
 - **hangszerek**: gamba -> gordonka, violacsalád -> hegedűcsalád, feszes-egyenes vonók, harántfuvola, fejlettebb kürt, oboa, pedálhárfa, újdonság: klarinét
 - csembaló helyett önmagában kísér a zenekar
-- nagy karmester-egyéniségek: [[Gossec]], [[Sammartini|Sammartini]], [[Jommelli]], [[Johann Stamitz]], [[Gluck|Gluck]], [[Haydn]]
+- nagy karmester-egyéniségek: [[Gossec]], [[Sammartini]], [[Jommelli]], [[Johann Stamitz]], [[Gluck|Gluck]], [[Haydn]]
 
 
 [^1]: [[Edward J Dent Italian Opera in the 18th Century]], [[Fischer A bécsi klasszikus stílus fejlődéséhez]], [[Adler a bécsi klasszikus iskola]], [[Charles Rosen A klasszikus stílus]], [[Jones Music in Vienna]], [[Webster 19th Century Music]], [[Komlós Katalin Fortepianók és zenéjük]]

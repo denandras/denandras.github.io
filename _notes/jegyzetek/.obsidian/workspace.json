@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zenetöri/klasszika fogalma.md",
+                "file": "Zenetöri/Leopold Mozart.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zenetöri/klasszika fogalma.md",
+                "file": "Zenetöri/Leopold Mozart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zenetöri/klasszika fogalma.md",
+                "file": "Zenetöri/Leopold Mozart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zenetöri/klasszika fogalma.md"
+                "file": "Zenetöri/Leopold Mozart.md"
               }
             }
           }
@@ -151,8 +151,23 @@
   },
   "active": "6610c07d2b060bda",
   "lastOpenFiles": [
-    "Zenetöri/Klasszika.md",
+    "Zenetöri/Leonardo Vinci.md",
+    "Zenetöri/Leoninus.md",
+    "Zenetöri/Leonardo Bruni Aretino.md",
+    "Zenetöri/Le nozze di Figaro.md",
+    "Zenetöri/Le nuove musiche.md",
+    "Zenetöri/Le Devin du village.md",
+    "Zenetöri/Le Déserteur.md",
+    "Zenetöri/Le Barber de Séville.md",
+    "Zenetöri/Bernini.md",
+    "Zenetöri/Lasso.md",
+    "Zenetöri/Komlós - billentyűsök.md",
+    "Zenetöri/Klinger.md",
+    "Zenetöri/klasszikus opera.md",
+    "Zenetöri/klasszikus billentyűs szonáta.md",
+    "Zenetöri/Cristofori fortepianója.md",
     "Zenetöri/klasszika fogalma.md",
+    "Zenetöri/Klasszika.md",
     "Zenetöri/kíséretes szonáta.md",
     "Zenetöri/King Arthur.md",
     "Zenetöri/Karl van Beethoven.md",
@@ -161,21 +176,6 @@
     "Zenetöri/Josse de Villeneuve.md",
     "Zenetöri/Josquin de Prez és a kottanyomtatás.md",
     "Zenetöri/Josquin.md",
-    "Zenetöri/Jones - Music in Vienna.md",
-    "Zenetöri/John Dunstaple.md",
-    "Zenetöri/John Blow.md",
-    "Zenetöri/Johann Stamitz.md",
-    "Zenetöri/Johann Rochlitz.md",
-    "Zenetöri/Johann Jacob Froberger.md",
-    "Zenetöri/Johann Heinrich Friedrich Schütz.md",
-    "Zenetöri/Johann Gottfried Walter.md",
-    "Zenetöri/Johann Adolph Hasse.md",
-    "Zenetöri/Johann Christian Bach.md",
-    "Zenetöri/Johann Adam Hiller.md",
-    "Zenetöri/Jean Racine.md",
-    "Zenetöri/Janequin.md",
-    "Zenetöri/Jacopo Peri.md",
-    "Zenetöri/Jacopo Corsi.md",
-    "Zenetöri/Isaac.md"
+    "Zenetöri/Jones - Music in Vienna.md"
   ]
 }

@@ -9,7 +9,7 @@ permalink: /klasszikus billentyűs szonáta
 
 ### Billentyűs szonáta (a 18. sz. második felében)
 - [[Lodovico Giustini]]
-- ([[Pergolesi|Giovanni Battista Pergolesi]])
+- ([[Pergolesi]])
 
 - [[Domenico Scarlatti]]
 - [[Alberti]]
@@ -17,14 +17,14 @@ permalink: /klasszikus billentyűs szonáta
 - [[Johann Christian Bach]]
 
 - [[C P E Bach]]
-- [[Haydn|Joseph Haydn]]
+- [[Haydn]]
 - [[Mozart]]
 
 #### Fontos alműfajok
 - [[kíséretes szonáta]]
 
 #### Újítások
-- [[Cristofori fortepianója]] ([[Silbermann|Silbermann]])
+- [[Cristofori fortepianója]] ([[Silbermann]])
 	- először tompább, majd élesebb
 	- a maga lábán áll
 	- [[Erard]] pedálja

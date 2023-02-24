@@ -1,4 +1,8 @@
 ---
 #zenetöri #személy
-alias: Friedrich Maximilian Klinger, F M Klinger
+title: Klinger
+feed: show
+date: 2022-12-23 17:30
+permalink: /Klinger
 ---
+Friedrich Maximilian Klinger

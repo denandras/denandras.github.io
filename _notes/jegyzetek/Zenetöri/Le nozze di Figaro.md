@@ -1,11 +1,15 @@
 ---
-alias: Figaro házassága
+title: Le nozze di Figaro
+feed: show
+date: 2022-12-23 17:30
+permalink: /Le nozze di Figaro
 #zenetöri #mű
 ---
-[[opera buffa]]
+- [[opera buffa]]
+- Figaro házassága
 
 - az ezt követő sikernek köszönhetően kérték fel [[Mozart]]ot a [[Don Giovanni]] megírására
-- felvonásvégi cselekvésfinálé ([[Baldassare Galuppi|Galuppi]]tól)
+- felvonásvégi cselekvésfinálé ([[Baldassare Galuppi]]tól)
 - 3 darabból álló vígjátéksorozat középső darabja
 	- [[Le Barber de Séville]] az első
 - szövegét át kellett dolgozni
