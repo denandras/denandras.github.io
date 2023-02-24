@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zenetöri/Goethe.md",
+                "file": "_Base/zenetöri.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zenetöri/Goethe.md",
+                "file": "_Base/zenetöri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zenetöri/Goethe.md",
+                "file": "_Base/zenetöri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zenetöri/Goethe.md"
+                "file": "_Base/zenetöri.md"
               }
             }
           }
@@ -149,8 +149,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9065bcdb1f28f1c0",
+  "active": "3bf624b0bf3a3638",
   "lastOpenFiles": [
+    "Zenetöri/ballada.md",
+    "Zenetöri/Goethe.md",
     "Témakörök.md",
     "_Base/akusztika.md",
     "_Base/népzene.md",

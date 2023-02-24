@@ -22,7 +22,7 @@
 		- összkiadás (pl. Erlkönig megzenésítés)
 	- [[Schubert]] - Eine altschottische Ballade
 		- 3 verzió
-		- 3. - 1895
+		- `3.` - 1895
 			- unisono női és férfi hang
 				- ált. szerelmi jelentéssel bír
 			- strófikus kompozíció
