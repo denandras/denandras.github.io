@@ -1,9 +1,9 @@
 ---
 title: Témakörök
-feedformat: row
+format: Post
 ---
 
-- [[Zenetöri]]
-- [[Akusztika]]
+- ### [[Zenetöri]]
+### - [[Akusztika]]
 - [[Népzene]]
 - [[Posztmodern]]
