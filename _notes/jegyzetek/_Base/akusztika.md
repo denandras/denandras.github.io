@@ -17,7 +17,7 @@ permalink: /akusztika
 - *Fellini: Amarcord*
 - "A világűr zenéje csendes"
 - [Quizlet](https://quizlet.com/558890153/akusztika-fogalmak-flash-cards/)
-______________
+
 ==[[akuszika képek]]==
 
 - Athéni hangiskola
@@ -36,8 +36,4 @@ ______________
 
 ### [[Akusztika tételek]]
 
-A csillaggal jelzett tételekhez használható segédanyag: Pap János: A zenei akusztika alapjai.
-
-Főiskolai jegyzet,  Tarnóczy Tamás: Zenei akusztika – termekkel foglalkozó fejezet.
-
-[[Akusztika fogalmak]]
+### [[Akusztika fogalmak]]

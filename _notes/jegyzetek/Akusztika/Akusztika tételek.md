@@ -4,9 +4,13 @@ feed: show
 date: 2023-02-24 14:29
 permalink: /Akusztika tételek
 #akusztika
-
+format: list
 alias:
 ---
+
+A csillaggal jelzett tételekhez használható segédanyag: Pap János: A zenei akusztika alapjai.
+
+Főiskolai jegyzet,  Tarnóczy Tamás: Zenei akusztika – termekkel foglalkozó fejezet.
 
 1.  A hang fogalma, tulajdonságai
 2.  A fül anatómiai szerkezete
