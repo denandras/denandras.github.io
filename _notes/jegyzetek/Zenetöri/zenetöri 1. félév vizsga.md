@@ -1,8 +1,8 @@
 ---
 title: zenetöri 1. félév vizsga
-feed: show
+feed: hide
 date: 2022-12-23 17:30
-permalink: /zenetöri 1. félév vizsga
+permalink: /zenetöri 1 félév vizsga
 #zenetöri
 
 alias:

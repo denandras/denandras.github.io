@@ -3,7 +3,7 @@
 title: A középkori zene
 feed: show
 date: 2023-01-16 10:52
-permalink: /A középkori zene
+permalink: /A-középkori-zene
 ---
 
 ### Idő
