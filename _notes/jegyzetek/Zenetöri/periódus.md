@@ -1,8 +1,11 @@
 ---
 #zenetöri #fogalom
-alias: zenei kérdés-felelet
+title: periódus
+feed: show
+date: 2022-12-23 17:30
+permalink: /periódus
 ---
-
+= zenei kérdés-felelet
 - alapelve: párosság, amely nyugalmat teremt
 - zártabb egység
 - a klasszikus formálás legkisebb alapvető zenei egysége

@@ -1,9 +1,9 @@
 ---
 #zenetöri #fogalom
-title: revideált
+title: sackbut
 feed: show
 date: 2022-12-23 17:30
-permalink: /revideált
+permalink: /sackbut
 ---
 
-= újraellenőrzött
+korai harsona

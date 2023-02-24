@@ -1,5 +1,9 @@
 ---
 #zenetöri #mű
+title: Poppea megkoronázása
+feed: show
+date: 2022-12-23 17:30
+permalink: /Poppea megkoronázása
 ---
 
 - pár évvel [[Monteverdi]] halála előtt (1643) mutatták be

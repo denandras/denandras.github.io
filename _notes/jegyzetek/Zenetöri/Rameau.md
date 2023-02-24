@@ -1,9 +1,8 @@
 ---
-title: Jean Philippe Rameau
+title: Rameau
 feed: show
 date: 2022-12-23 17:30
-permalink: /Jean Philippe Rameau
-#zenetöri #személy
+permalink: /Rameau
 ---
 
 Jean Philippe Rameau

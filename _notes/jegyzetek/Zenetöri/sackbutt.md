@@ -1,5 +1,0 @@
----
-#zenetöri #fogalom
----
-
-Korai harsona

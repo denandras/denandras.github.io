@@ -1,5 +1,9 @@
 ---
 #zenetöri #fogalom #formatan
+title: ritornello
+feed: show
+date: 2022-12-23 17:30
+permalink: /ritornello
 ---
 
 - tonálisan zárt egység

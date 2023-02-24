@@ -1,6 +1,10 @@
 ---
 alias: romantika
 #zenetöri #korszak #fogalom
+title: romantika fogalma
+feed: show
+date: 2023-02-20 07:09
+permalink: /romantika fogalma
 ---
 [[Általános zenetörténet IV. szemeszter - 1.tétel A romantika fogalma.pdf]]
 
@@ -13,7 +17,7 @@ alias: romantika
 - örökké alakul, késznek sosem mondható
 - szabad, a költő minden felett
 - szó eredete, jelentése
-	- [[E T A Hoffmann|Hoffmann]] romantikusként aposztrofálja [[Beethoven]]t és kortársait
+	- [[E T A Hoffmann]] romantikusként aposztrofálja [[Beethoven]]t és kortársait
 	- irodalomt.: [[Schlegel-fivérek]] működésétől (19. század első fele, a '48-as forradalmakig)
 		- Jénai, Heidelbergi, Berlini romantikus mozgalmak
 	- zenet.: Beethoven halála utáni zeneszerzők
@@ -33,7 +37,7 @@ alias: romantika
 				- távoli történelmi múlt gyakori téma
 - zene és irodalom kapcsolata
 	- magánlevélen túl kritikákat, beszámolókat írnak a publikumnak
-	- [[E T A Hoffmann|Hoffmann]] nyomdokain [[Schumann]], [[Berlioz]], [[Wagner]], [[Liszt]]
+	- [[E T A Hoffmann]] nyomdokain [[Schumann]], [[Berlioz]], [[Wagner]], [[Liszt]]
 	- nagypéldányú napilapok, sajtó kialakulása
 		- párizsi La Presse
 		- német Neue Zeitschrift für Musik
