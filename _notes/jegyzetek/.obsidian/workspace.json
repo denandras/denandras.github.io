@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Base/akusztika.md",
+                "file": "Akusztika/teremtörténet.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Base/akusztika.md",
+                "file": "Akusztika/teremtörténet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Base/akusztika.md",
+                "file": "Akusztika/teremtörténet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Base/akusztika.md"
+                "file": "Akusztika/teremtörténet.md"
               }
             }
           }
@@ -151,16 +151,16 @@
   },
   "active": "3bf624b0bf3a3638",
   "lastOpenFiles": [
+    "Akusztika/pszichoakusztika.md",
+    "Akusztika/posztulátum.md",
+    "_Base/akusztika.md",
     "_Base/népzene.md",
     "_Base/zenetöri.md",
     "_Base/posztmodern.md",
     "Zenetöri/ballada.md",
     "Zenetöri/Goethe.md",
     "Témakörök.md",
-    "_Base/akusztika.md",
     "Akusztika/teremtörténet.md",
-    "Akusztika/pszichoakusztika.md",
-    "Akusztika/posztulátum.md",
     "Akusztika/Időérzékelés.md",
     "Akusztika/hangterjedés.md",
     "Akusztika/hangszigetelés.md",

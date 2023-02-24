@@ -1,6 +1,5 @@
 ---
 title: Témakörök
-layout: Post
 feedformat: row
 ---
 
