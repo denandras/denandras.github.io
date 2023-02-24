@@ -1,7 +1,7 @@
 ---
 banner: "https://esterhazy.at/user/images/a-Schloss-Esterhazy/_1200x630_crop_center-center_82_none/Schloss-Esterhazy-Geschichte_-historisch-cEsterhazy.jpg?mtime=1562681232"
 title: zenetöri
-feed: show
+feed: hide
 date: 2023-02-20 19:34
 permalink: /zenetöri
 #zenetöri

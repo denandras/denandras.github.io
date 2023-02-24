@@ -1,3 +1,13 @@
+---
+title: posztmodern
+feed: hide
+date: 2023-02-20 19:34
+permalink: /posztmodern
+#posztmodern
+
+alias:
+---
+
 Kovács Zoltán, bölcsész
 esszé, vagy jekenléti jegykérés
 Említések

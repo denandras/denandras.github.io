@@ -1,6 +1,6 @@
 ---
 title: népzene
-feed: show
+feed: hide
 date: 2023-02-20 07:09
 permalink: /népzene
 ---
