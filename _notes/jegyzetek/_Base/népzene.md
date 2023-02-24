@@ -15,7 +15,7 @@ permalink: /népzene
 
 >  népi hangszer: a falu hagyományában hosszabb használatban van, rajta jellegzetes játékmód és repertoár alakult ki
 
-> [!NOTE] Hangszerfélék (Curt Sachs, Erich Hornbostel)
+Hangszerfélék (Curt Sachs, Erich Hornbostel)
 > - **idiofon**: az anyag rezeg
 > 	- fa + fém: *deszkadob, kereplő, szekrényes kereplő, szélkereplő, facimbalom (szalmamuzsika)*
 > 	- fém: *csengő, pergő, pásztorszimfónia (nyáj csengői)*

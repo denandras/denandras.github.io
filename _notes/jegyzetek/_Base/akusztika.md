@@ -4,7 +4,7 @@ title: Akusztika
 #akusztika
 feed: hide
 date: 2023-02-20 07:09
-permalink: /akusztika
+permalink: /zakusztika
 ---
 
 **Dr. Pap János**
