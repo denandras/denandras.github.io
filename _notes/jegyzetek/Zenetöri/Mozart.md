@@ -1,6 +1,10 @@
 ---
 alias: Wolfgang Amadeus Mozart
 #zenetöri #személy
+title: Mozart
+feed: show
+date: 2023-01-16 10:52
+permalink: /Mozart
 ---
 <div class="cropped"><img src="https://st4.depositphotos.com/13128258/20871/v/600/depositphotos_208715060-stock-illustration-wolfgang-amadeus-mozart-great-composer.jpg"></div>
 
@@ -30,9 +34,6 @@ alias: Wolfgang Amadeus Mozart
 		- a korabeli hangszerek kiismerése (1770-80-as Stein vagy Walter zongorák) kiismerése sokszor biztosabb támpontot nyújt
 	
 ### Szimfóniái (változatos, sokféle)
-
-^f60ab2
-
 - alapvetően az operákra koncentrált
 - háromtételes, korai olaszos szimfóniák: London, Hága
 - 1767-68 Bécs - szimfonikus gyakorlat megfogta

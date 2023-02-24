@@ -13,26 +13,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Base/zenetöri.md",
+                "file": "_Base/akusztika.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
           {
-            "id": "bee0b7e372af7ce5",
+            "id": "62ddf37c38fb3454",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zenetöri/opera seria.md",
+                "file": "Zenetöri/Wagner.md",
                 "mode": "source",
-                "source": false
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bb3a80cc06929273",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "akusztika fogalmak.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zenetöri/opera seria.md",
+                "file": "_Base/akusztika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zenetöri/opera seria.md",
+                "file": "_Base/akusztika.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zenetöri/opera seria.md"
+                "file": "_Base/akusztika.md"
               }
             }
           }
@@ -155,17 +168,29 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bee0b7e372af7ce5",
+  "active": "3bf624b0bf3a3638",
   "lastOpenFiles": [
-    "Zenetöri/opera a 18 század közepén.md",
+    "Zenetöri/Wagner.md",
+    "_Base/akusztika.md",
+    "akusztika fogalmak.md",
+    "Akusztika/A fül anatómiai szerkezete.md",
     "_Base/zenetöri.md",
+    "Zenetöri/Singspiel.md",
+    "Zenetöri/Mozart.md",
+    "Zenetöri/Egyházi zene a 17. században.md",
+    "Zenetöri/opera seria.md",
+    "Zenetöri/opera comique.md",
+    "Zenetöri/opera buffa.md",
+    "Zenetöri/opera a 18 század közepén.md",
+    "Zenetöri/Úrhatnám szolgáló.md",
+    "Zenetöri/Baldassare Galuppi.md",
+    "Zenetöri/tragedie en musique.md",
     "Zenetöri/szimfónia.md",
     "Zenetöri/vonósnégyes.md",
     "Zenetöri/zenetöri 1. félév vizsga.md",
@@ -176,19 +201,6 @@
     "Zenetöri/klasszika fogalma.md",
     "Zenetöri/A 15. sz. meghatározó műfajai.md",
     "Zenetöri/A 13-14. sz. művészi zenéje.md",
-    "Zenetöri/Világi műfajok a 16. században.md",
-    "Zenetöri/Hangszeres concerto.md",
-    "Zenetöri/szonáta.md",
-    "Zenetöri/Angol zenei kultúra.md",
-    "Zenetöri/Francia barokk.md",
-    "Zenetöri/Egyházi zene a 17. században.md",
-    "Zenetöri/Hangszeres zene a 17. században.md",
-    "Zenetöri/opera.md",
-    "Zenetöri/Humanizmus.md",
-    "Zenetöri/Josquin de Prez és a kottanyomtatás.md",
-    "Zenetöri/Világi zene a középkorban.md",
-    "Zenetöri/Zenei írásbeliség, gregorián.md",
-    "Zenetöri/A középkori zene.md",
-    "Zenetöri/opera buffa.md"
+    "Zenetöri/Világi műfajok a 16. században.md"
   ]
 }

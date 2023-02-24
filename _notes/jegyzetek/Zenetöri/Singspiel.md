@@ -1,5 +1,9 @@
 ---
 #zenetöri #műfaj
+title: Singspiel
+feed: show
+date: 2023-01-10 22:34
+permalink: /Singspiel
 ---
 > Hamburg: nagyobb opera
 > néhány fejedelmi opera (Bécs, Drezda)
@@ -23,6 +27,6 @@
 ### Példák
 
 - [[Mozart]]: Bastien, [[Entführung|Szöktetés]], [[Der Schauspieldirektor]]
-- ![[Varázsfuvola]]
+- Mozart: ![[Varázsfuvola]]
 - [[Johann Adam Hiller]]
 

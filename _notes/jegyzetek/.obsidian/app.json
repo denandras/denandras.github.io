@@ -15,5 +15,6 @@
     "editor:insert-link",
     "editor:insert-callout"
   ],
-  "mobilePullAction": "global-search:open"
+  "mobilePullAction": "global-search:open",
+  "livePreview": false
 }

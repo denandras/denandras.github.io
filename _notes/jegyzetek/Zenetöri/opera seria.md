@@ -1,6 +1,10 @@
 ---
 #zenetöri #műfaj
 alias: opera seria
+title: opera seria
+feed: show
+date: 2022-12-23 17:30
+permalink: /opera seria
 ---
 
 ### A barokkban

@@ -1,6 +1,6 @@
 ---
 #zenetöri #műfaj
-alias: olasz komoly opera
+alias: francia komoly opera
 ---
 
-olasz [[opera seria]]
+francia [[opera seria]]
