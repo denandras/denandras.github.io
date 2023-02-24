@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Akusztika/Akusztika tételek.md",
+                "file": "_Base/akusztika.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Akusztika/Akusztika tételek.md",
+                "file": "_Base/akusztika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Akusztika/Akusztika tételek.md",
+                "file": "_Base/akusztika.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Akusztika/Akusztika tételek.md"
+                "file": "_Base/akusztika.md"
               }
             }
           }
@@ -164,11 +164,11 @@
   },
   "active": "7878f6a30483c86a",
   "lastOpenFiles": [
+    "Akusztika/Akusztika tételek.md",
+    "_Base/posztmodern.md",
     "Zenetöri/Világi műfajok a 16. században.md",
     "_Base/zenetöri.md",
-    "Akusztika/Akusztika tételek.md",
     "_Base/akusztika.md",
-    "_Base/posztmodern.md",
     "_Base/népzene.md",
     "Zenetöri/kíséretes szonáta.md",
     "Zenetöri/Idomeneo.md",

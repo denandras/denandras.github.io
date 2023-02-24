@@ -8,10 +8,10 @@ permalink: /posztmodern
 alias:
 ---
 
-Kovács Zoltán, bölcsész
-esszé, vagy jekenléti jegykérés
-Említések
-[[Vajda Mihály]]
+- Kovács Zoltán, bölcsész
+- esszé, vagy jelenléti jegykérés
+- Említések
+	- [[Vajda Mihály]]
 
 - egy olyan korszakjelölő fogalom, amely egy másik korszakhoz viszonyítja magát
 - nem modernellenes, hanem kritikával viszonyul a modernitáshoz
