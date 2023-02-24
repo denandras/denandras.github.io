@@ -1,8 +1,8 @@
 
 ---
-title: akusztika
+title: Akusztika
 #akusztika
-feed: hide
+feed: show
 date: 2023-02-20 07:09
 permalink: /akusztika
 ---
@@ -35,7 +35,7 @@ ______________
 - [[hangterjedés]]
 
 
-### Tételek
+### Akusztika tételek
 1.  A hang fogalma, tulajdonságai
 2.  [[A fül anatómiai szerkezete]]
 3.  A hallás mechanizmusa

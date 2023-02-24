@@ -18,32 +18,6 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "62ddf37c38fb3454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zenetöri/Wagner.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bb3a80cc06929273",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "akusztika fogalmak.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
         ],
         "stacked": true
@@ -176,11 +150,12 @@
   },
   "active": "3bf624b0bf3a3638",
   "lastOpenFiles": [
-    "Zenetöri/Wagner.md",
+    "_Base/zenetöri.md",
     "_Base/akusztika.md",
+    "_Base/népzene.md",
+    "Zenetöri/Wagner.md",
     "akusztika fogalmak.md",
     "Akusztika/A fül anatómiai szerkezete.md",
-    "_Base/zenetöri.md",
     "Zenetöri/Singspiel.md",
     "Zenetöri/Mozart.md",
     "Zenetöri/Egyházi zene a 17. században.md",
@@ -200,7 +175,6 @@
     "Zenetöri/klasszikus billentyűs szonáta.md",
     "Zenetöri/klasszika fogalma.md",
     "Zenetöri/A 15. sz. meghatározó műfajai.md",
-    "Zenetöri/A 13-14. sz. művészi zenéje.md",
-    "Zenetöri/Világi műfajok a 16. században.md"
+    "Zenetöri/A 13-14. sz. művészi zenéje.md"
   ]
 }
