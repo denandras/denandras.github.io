@@ -24,7 +24,7 @@
     },
     {
       "folder": "/",
-      "template": "Files/templates/t_zenetöri.md"
+      "template": "Files/templates/t_basic template.md"
     }
   ],
   "syntax_highlighting": true,
