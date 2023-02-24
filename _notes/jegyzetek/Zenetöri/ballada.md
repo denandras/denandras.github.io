@@ -1,5 +1,9 @@
 ---
 #zenetöri #tétel #műfaj
+title: ballada
+feed: show
+date: 2023-02-20 19:34
+permalink: /ballada
 ---
 
 - irodalmi divat, 18. század

@@ -1,7 +1,10 @@
 ---
 #zenetöri #anyag
+title: barokk a hétköznapokban
+feed: show
+date: 2022-12-23 17:30
+permalink: /barokk a hétköznapokban
 ---
-[[A barokk zenéről általában|barokk]]
 
 - a barokk a zenében olyan, mint egy évben a nyár
 - burjánzó, túlzó, fülledt

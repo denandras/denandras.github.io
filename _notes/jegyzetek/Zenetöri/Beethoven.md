@@ -1,6 +1,9 @@
 ---
 #zenetöri #személy #tétel
-alias: Ludwig van Beethoven
+title: Beethoven
+feed: show
+date: 2022-12-23 17:30
+permalink: /Beethoven
 ---
 <div class="cropped"><img src="https://www.kennedy-center.org/globalassets/education/resources-for-educators/classroom-resources/artsedge/collection/collection-beethoven-169.jpg"></div>
 > ==1770-1827==, Bonn, flamand származású
@@ -43,7 +46,7 @@ a francia forradalom szellemi örököse
 #### ==Korszakolás, zongoraszonátái==
 ^zongoraszonatai
 - korai ***(-1803)***
-	- bécsi [[Walter]] [[Cristofori fortepianója|fortepiano]]t használt
+	- bécsi [[Walter]] [[fortepiano]]t használ
 	- 4 tételes **grande sonate** (op. 2 már ilyen)
 		- a nem 4 tételes művek is grande-k (nagyszabásúak)
 	- több moll ciklus, mint [[Mozart]]nál vagy [[Haydn]]nál
@@ -51,11 +54,11 @@ a francia forradalom szellemi örököse
 	- kísérletező jelleg
 	- op. 26: [[gyászinduló]]
 - középső korabeli ***(-1812)***
-	- [[Erard]] [[Cristofori fortepianója|fortepiano]]t használ
+	- [[Erard]] [[fortepiano]]t használ
 	- a szimfonikus zene dominál, de születik 6 új szonáta is
 	- *újdonság:* a [[mediáns]] hangnem másodlagos tonalitásként való alkalmazása
 - kései ***(1813-)***
-	- (1818-tól [[Broadwood]] [[Cristofori fortepianója|fortepiano]]t használ)
+	- (1818-tól [[Broadwood]] [[fortepiano]]t használ)
 	- személyes hang, egyéni tételrendek
 	- egyetlen kifejezetten **[[programatikus]]** zongoraszonátája: az op. 81a „[[Les Adieux]]”
 	- záró [[szonátarondó]] formák eltűnnek, fúgák, vagy átszellemült var. finálék lépnek a helyükbe
@@ -65,7 +68,7 @@ a francia forradalom szellemi örököse
 - ott folytatja, ahol [[Haydn]] abbahagyta
 - korai periódus
 	- C és D-dúr
-	- scherzo tétel (újítás a [[menüett|menuet]] helyett)
+	- scherzo tétel (újítás a [[menüett]] helyett)
 	- ugyanaz a felállás, ami Haydn kései
 - középső, érettebb periódus
 	- Esz-dúr Eroica

@@ -1,5 +1,9 @@
 ---
 #zenetöri #tétel
+title: Angol zenei kultúra
+feed: show
+date: 2023-02-08 23:12
+permalink: /Angol zenei kultúra
 ---
 
 - ### **Angol polgári forradalom** (válság) 1642-51
@@ -22,7 +26,7 @@
     -   Visszacsapás a kulturális életben
     -   Nagyszabású színpadi játék megteremtése a cél, de itt is volt már hasonló fennálló dolog
     -   [[Dido és Aeneas]] (torzó, melléktermék)
-    -   ([[Thomas Betterton]]) [[semi-opera]] ([[semi-opera|drammatick opera]])
+    -   ([[Thomas Betterton]]) [[semi-opera]], drammatick opera)
         -   Főszereplők sose énekelnek, elválasztja a két feladatot
         -   Minden felvonás végén nagy 'divertissement'
         -   [[King Arthur]]

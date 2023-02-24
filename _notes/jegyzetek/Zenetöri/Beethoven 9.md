@@ -1,6 +1,9 @@
 ---
 #zenetöri #mű
-alias: Beethoven IX. szimfónia
+title: Beethoven 9
+feed: show
+date: 2023-01-10 12:36
+permalink: /Beethoven 9
 ---
 
 ### Keletkezése

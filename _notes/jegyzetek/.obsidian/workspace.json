@@ -13,46 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zenetöri/Andrea Gabrieli.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "273c47ac15b90e0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Base/akusztika.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9dcc44c8a77f71ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Akusztika/Akusztika fogalmak.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2282afc8947b3c6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Akusztika/Akusztika tételek.md",
+                "file": "Zenetöri/Bernini.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -60,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -127,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Akusztika/Akusztika fogalmak.md",
+                "file": "Zenetöri/Bernini.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Akusztika/Akusztika fogalmak.md",
+                "file": "Zenetöri/Bernini.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Akusztika/Akusztika fogalmak.md"
+                "file": "Zenetöri/Bernini.md"
               }
             }
           }
@@ -189,33 +149,33 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9dcc44c8a77f71ea",
+  "active": "7878f6a30483c86a",
   "lastOpenFiles": [
-    "Akusztika/Akusztika tételek.md",
-    "Akusztika/Akusztika fogalmak.md",
-    "_Base/akusztika.md",
-    "Zenetöri/Andrea Gabrieli.md",
-    "Zenetöri/Alfred Dürr.md",
-    "Zenetöri/Alceste.md",
-    "Zenetöri/Alberti-basszus.md",
-    "Zenetöri/Adrian Willaert.md",
-    "Zenetöri/Adler - a bécsi klasszikus iskola.md",
-    "Zenetöri/Acradelt.md",
-    "Zenetöri/acciaccatura.md",
-    "Zenetöri/Abélard és Heloise.md",
-    "Zenetöri/A német opera.md",
-    "Zenetöri/A középkori zene.md",
-    "Zenetöri/A barokk zenéről általában.md",
-    "Zenetöri/A 15. sz. meghatározó műfajai.md",
-    "Zenetöri/A 13-14. sz. művészi zenéje.md",
-    "Zenetöri/45. szimfónia.md",
-    "Public/Credits.md",
-    "Files/templates/t_akusztika.md",
-    "Else/temakorok.md",
-    "Else/Score Library-Kottatár.md",
-    "Akusztika/hangszigetelés.md",
-    "Akusztika/hangterjedés.md",
-    "Akusztika/Időérzékelés.md",
-    "Akusztika/posztulátum.md"
+    "Zenetöri/Berlioz.md",
+    "Zenetöri/Beethoven 9.md",
+    "Zenetöri/basso continuo.md",
+    "Zenetöri/Beethoven.md",
+    "Zenetöri/Beethoven 1.md",
+    "Zenetöri/Bernini.md",
+    "Zenetöri/Bertran de Born.md",
+    "Zenetöri/menüett.md",
+    "fortepiano.md",
+    "Zenetöri/Cristofori.md",
+    "Zenetöri/barokk a hétköznapokban.md",
+    "Zenetöri/Szabolcsi Bence Művei.md",
+    "Zenetöri/Barberini család.md",
+    "Zenetöri/ballada.md",
+    "Zenetöri/Baldassare Galuppi.md",
+    "Zenetöri/Bach.md",
+    "Zenetöri/Avison.md",
+    "Zenetöri/Auenbrugger kisasszonyok.md",
+    "Zenetöri/Attaignant.md",
+    "Zenetöri/Artaria.md",
+    "Zenetöri/Ars subtilior.md",
+    "Zenetöri/Ars perfecta.md",
+    "Zenetöri/Ars nova.md",
+    "Zenetöri/Ars antiqua.md",
+    "Zenetöri/Arezzói Guido.md",
+    "Zenetöri/Arcangelo Corelli.md"
   ]
 }

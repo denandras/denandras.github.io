@@ -1,17 +1,21 @@
 ---
 alias: Corelli
 #zenetöri #személy
+title: Arcangelo Corelli
+feed: show
+date: 2022-12-23 17:30
+permalink: /Arcangelo Corelli
 ---
 
 1653-1713
 
 ### Hatása
-- a [[A barokk zenéről általában|barokk]] egyik nagy felfedezője
+- a barokk egyik nagy felfedezője
 	- Schubert-dalok tonalitásának kirobbanása, a felfedezők elfeledése 
 - a 18. század zenei életére nagy hatással volt.
 - teljes életműve **nem tartalmaz vokális zenét**
 - Rómában a bíborosok együtteseit vezette.
-- járt Párizsban és elleste [[Giovanni Battista Lully|Lully]] zenekarának fegyelmét
+- járt Párizsban és elleste [[Giovanni Battista Lully]] zenekarának fegyelmét
 	- a vonók egyszerre mozogjanak
 - funkciós tonális zene kiteljesedik
 	
@@ -23,17 +27,17 @@ alias: Corelli
 	- Op. 5 első hegedűszonátamű
 		- nagyon lassú zene, burjánzó díszítések
 	
-- zenekari zenéje
-	- francia és angol vonósegyüttesek
-	- Olaszország: Corelli hatása
-	- Concerti Grossi (Op. 6)
-		- [[Händel]]-re gyakorolt befolyás
-		- két évvel halála előtt adta ki (de dolgozott rajtuk korábban)
-		- két fajta
-			- [[sonata da chiesa]]-szerű concerto da chiesa (első 8)
-			- [[sonata da camera]]-szerű concerto da camera (utolsó 4)
-		- a különbség egyre inkább elveszik
-		- kétféle felállás - régi két hangszerkíséretes kórusból fejlődött ki
-			- concertino
-			- concerto grosso (=ripieno=teljes)
-	- a szólamok duplázhatók -> nagy zenekarok (szokatlan)
+### zenekari zenéje
+- francia és angol vonósegyüttesek
+- Olaszország: Corelli hatása
+- Concerti Grossi (Op. 6)
+	- [[Händel]]-re gyakorolt befolyás
+	- két évvel halála előtt adta ki (de dolgozott rajtuk korábban)
+	- két fajta
+		- [[sonata da chiesa]]-szerű concerto da chiesa (első 8)
+		- [[sonata da camera]]-szerű concerto da camera (utolsó 4)
+	- a különbség egyre inkább elveszik
+	- kétféle felállás - régi két hangszerkíséretes kórusból fejlődött ki
+		- concertino
+		- concerto grosso (=ripieno=teljes)
+- a szólamok duplázhatók -> nagy zenekarok (szokatlan)

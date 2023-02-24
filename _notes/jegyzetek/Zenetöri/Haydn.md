@@ -22,7 +22,7 @@ alias: Joseph Haydn
 - többnyire nem magának írta őket
 - korai szonátái divertimentók/parthiák, hitelességük bizonytalan
 - 6-szonátás kötet (Giuseppe Haydn) clavicembalóra vagy [[Cristofori fortepianója|fortepiano]]ra
-	- [[Auenbrugger]]-szonáták: *két Auenbrugger kisasszonynak*
+	- [[Auenbrugger kisasszonyok]]-szonáták: *két Auenbrugger kisasszonynak*
 	- levél a kiadónak, [[Artaria]]nak, melyben készséges szolgaként köszön el
 	- A B A<sub>1</sub> C A<sub>2</sub>  kóda
 	- kettősvariációt alkalmaz

@@ -1,7 +1,11 @@
 ---
-alias: Johann Sebastian Bach
 #zenetöri #személy #tétel
+title: Bach
+feed: show
+date: 2022-12-23 17:30
+permalink: /Bach
 ---
+Johann Sebastian Bach
 <div class="cropped"><img src="https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/johann-sebastian-bach-black-and-white.png"></div>
 
 - Kunst der Fuge
@@ -11,7 +15,7 @@ alias: Johann Sebastian Bach
 	- nem voltak elég jók az előadók
 	- az előadás mássága
 
-#### Ismerjük meg!
+## Ismerjük meg!
 - [[Caroline Wilkinson]] arcképe
 	- Bach maradványai, hatalmas koponya
 	- szigorú, rideg, tekintélyes
@@ -46,8 +50,8 @@ alias: Johann Sebastian Bach
 		- beszámol családjáról
 - utolsó 10-20 évében élete legjelentősebb műveit írta meg, és ennyi
 - 1729: Kollegium Musicum irányítása, hetente koncert kávéházban
-- ## zenei gondolkodása
-- E-dúr hegedűverseny ([[Hangszeres concerto|concerto]])
+## zenei gondolkodása
+- E-dúr hegedűverseny (concerto)
 	- [[ritornello]] forma kicsit összevissza
 	- da capo forma (nem létezik Bachon kívül a concertoban): A rész, káoszos B gisz moll véggel, A rész
 - ### kantáták
@@ -59,7 +63,7 @@ alias: Johann Sebastian Bach
 		- mise/ünnepnap/temetés
 	- figurális zene: van benne ének és hangszer
 	- a szakaszok rövidek és egymásba folynak -> a 18. sz. tájékán lesznek hosszabbak és különülnek el egymástól
-		- fog egy szövegrészt, megzenésíti, megy tovább (mint [[Heinrich Schütz|Schütz]]) - bibliai szövegek
+		- fog egy szövegrészt, megzenésíti, megy tovább (mint [[Heinrich Schütz]]) - bibliai szövegek
 		- késői Bach kifejezetten kantáralibrettókat zenésített meg
 			- [[Erdmann Neumeister]] lelkész 1700-ban kiadott librettógyűjteményében már elkülönülnek a tételek
 	- Gottes Zeit ist die allerbeste Zeit 106
@@ -108,7 +112,7 @@ alias: Johann Sebastian Bach
 			- 2*15 variáció (3-as egységekben, minden harmadik egy kánon)
 			- egyenrangú a két kéz
 
-#### Bach összefoglalás
+## Bach összefoglalás
 1. Milyen volt Bach?
 	- arckép
 	- koponya
