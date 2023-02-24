@@ -3,7 +3,7 @@
 title: Akusztika fogalmak
 feed: show
 date: 2023-02-24 14:23
-permalink: /akusztika fogalmak
+permalink: /Akusztika fogalmak
 ---
 
 afferens
