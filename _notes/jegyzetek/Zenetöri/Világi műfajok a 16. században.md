@@ -2,7 +2,7 @@
 #zenetöri #tétel
 title: Világi műfajok a 16. században
 feed: show
-date: 2023-01-19 17:25
+date: 2021-01-19 17:25
 permalink: /Világi műfajok a 16 században
 ---
 

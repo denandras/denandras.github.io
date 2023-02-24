@@ -1,4 +1,4 @@
 title: <% tp.file.title %>
 feed: show
-date: 2021-01-01
+date: <% tp.file.creation_date() %>
 permalink: /<% tp.file.title %>

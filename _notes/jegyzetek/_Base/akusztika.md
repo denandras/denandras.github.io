@@ -3,7 +3,7 @@
 #akusztika
 title: akusztika
 feed: hide
-date: 2023-02-20 07:09
+date: 2021-02-20 07:09
 permalink: /akusztika
 ---
 
