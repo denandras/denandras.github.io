@@ -120,4 +120,4 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-    - _notes\jegyzetek\Files\templates
+  - _notes\jegyzetek\Files\templates
