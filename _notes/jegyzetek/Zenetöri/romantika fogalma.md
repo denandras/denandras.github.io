@@ -3,7 +3,7 @@ alias: romantika
 #zenetöri #korszak #fogalom
 title: romantika fogalma
 feed: show
-date: 2023-02-20 07:09
+date: 2023-01-20 07:09
 permalink: /romantika fogalma
 ---
 [[Általános zenetörténet IV. szemeszter - 1.tétel A romantika fogalma.pdf]]
