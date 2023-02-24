@@ -1,10 +1,13 @@
 ---
-alias: Georg Friedrich Händel
+title: Händel
+feed: show
+date: 2022-12-23 17:30
+permalink: /Händel
 #zenetöri #személy
 ---
-1685-1759
+Georg Friedrich Händel
+- ==1685-1759==
 
 Szerepe az operában: 
-[[opera#^handelopera]]
 [[opera]]
 

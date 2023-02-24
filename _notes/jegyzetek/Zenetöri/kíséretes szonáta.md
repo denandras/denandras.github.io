@@ -1,5 +1,9 @@
 ---
 #zenetöri #műfaj
+title: kíséretes szonáta
+feed: show
+date: 2023-01-06 19:14
+permalink: /kíséretes szonáta
 ---
 
 - elterjedt
@@ -40,7 +44,7 @@
 		- op. 1-4 "kíséretes szonáták"
 		- [[gáláns stílus]]
 		- ``+`` kiadók megjelentettek (nem a szerző által írt) második szólammal szonátákat
-	- 1770-től [[duószonáta|duószonáták]]at írt (de nem egy stílusbeli fejlődés miatt)
+	- 1770-től [[duószonáta]]kat írt (de nem egy stílusbeli fejlődés miatt)
 
 
 

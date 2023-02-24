@@ -1,12 +1,16 @@
 ---
 #zenetöri #személy
-alias: Gluck
+title: Christoph Willibald Gluck
+feed: show
+date: 2022-12-23 17:30
+permalink: /Christoph Willibald Gluck
 ---
+Christoph Willibald Gluck
 <div class="cropped"><img src="https://g.denik.cz/13/31/mostgluack_denik-630-16x9.jpg"></div>
 
 - 1714-87
 	- cseh származású -> prágai tanulmányok
-	- [[Carl Philipp Emanuel Bach|C P E Bach]]-hal egy évben született
+	- [[C P E Bach]]-hal egy évben született
 	- dramma per musica-kat alkotott olasz nyelven
 	- [[Metastasio]] szövegei
 	- nemzetközi szerző volt (főként az opera népszerűsége miatt)

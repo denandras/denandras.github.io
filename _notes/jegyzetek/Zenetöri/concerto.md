@@ -1,6 +1,10 @@
 ---
 #zenetöri #műfaj #fogalom
 alias: versenymű
+title: concerto
+feed: show
+date: 2022-12-23 17:30
+permalink: /concerto
 ---
 
 - szólóhangszerre és zenekarra írt zenemű, amely a barokk zenében már ismert műfaj, de a klasszikus stílus ezt is a maga képére formálta

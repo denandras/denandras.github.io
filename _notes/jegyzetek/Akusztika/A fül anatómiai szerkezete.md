@@ -1,6 +1,5 @@
 ---
 #akusztika
-alias: fül
 title: A fül anatómiai szerkezete
 feed: show
 date: 2022-12-23 17:30

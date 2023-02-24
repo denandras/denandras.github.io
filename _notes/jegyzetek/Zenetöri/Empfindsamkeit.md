@@ -1,7 +1,11 @@
 ---
 #zenetöri #fogalom
-alias: szentimentalizmus, Empfindsamer Stil
+title: Empfindsamkeit
+feed: show
+date: 2022-12-23 17:30
+permalink: /Empfindsamkeit
 ---
+szentimentalizmus, Empfindsamer Stil
 
 = érzékenység, szentimentalizmus
 - a [[gáláns stílus]] **északnémet** dialektusa
@@ -10,4 +14,4 @@ alias: szentimentalizmus, Empfindsamer Stil
 - szenvedélyesség, szaggatottság jellemzi
 - átmenet a preklasszika és az érett k. között
 
-[[Carl Philipp Emanuel Bach]]
+[[C P E Bach]]

@@ -38,7 +38,7 @@ permalink: /A barokk zenéről általában
 ### Jelentős operák
 - [[Monteverdi]]: [[Orfeo]] (1607)
 
-- [[Jean Philippe Rameau]]: [[Hyppolyte et Aricie]] - 1733
+- [[Rameau]]: [[Hyppolyte et Aricie]] - 1733
 
 * a reneszánsztól való eltérések
 	* [[ars perfecta]] - [[Michelangelo]] Dávidja, statikus, tökéletes - [[reneszánsz]]
@@ -64,5 +64,5 @@ permalink: /A barokk zenéről általában
 	* 7 szólamú
 	* fúga
 	* túl sok, túl művészi
-* [[Giovanni Battista Lully]]
+* [[Lully]]
 * [[Arcangelo Corelli]]

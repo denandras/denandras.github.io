@@ -1,5 +1,9 @@
 ---
 #zenetöri #fogalom
+title: dalciklus
+feed: show
+date: 2023-02-22 10:28
+permalink: /dalciklus
 ---
 
 - maguk a költemények ciklust alkotnak

@@ -1,4 +1,0 @@
----
-alias: Cimarosa
-#zenetöri #személy
----

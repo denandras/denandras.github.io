@@ -1,3 +1,11 @@
+---
+title: Hugo Wolf
+feed: show
+date: 2023-02-22 10:28
+permalink: /Hugo Wolf
+#zenetöri
+---
+
 - ==1860-1903==
 - Windischgraz
 - baráti körében [[Mahler]]

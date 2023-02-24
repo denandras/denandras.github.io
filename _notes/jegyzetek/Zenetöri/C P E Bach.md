@@ -1,7 +1,11 @@
 ---
 #zenetöri #személy
-Alias: C P E Bach
+title: C P E Bach
+feed: show
+date: 2023-01-06 19:14
+permalink: /C P E Bach
 ---
+Carl Philipp Emanuel Bach
 
 > [[Bach]] gyermeke, ==1714-1788==, Weimarban született
 > A 18. sz. legtermékenyebb billentyűs szerzője
@@ -15,7 +19,7 @@ Alias: C P E Bach
 	- [[Telemann]] halála miatt nyílt meg az állás
 
 - ### Szonátakötetek
-- kedveli a [[Clavichord|Tafelklavier]]t/[[Clavichord]]ot
+- kedveli a Tafelklaviert/[[Clavichord]]ot
 	- (nem kalapács, hanem érintő, vibrato lehetősége)
 	- halála után fennmaradt árverezési dokumentumok
 - címzettek

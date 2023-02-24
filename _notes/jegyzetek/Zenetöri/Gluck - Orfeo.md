@@ -1,8 +1,11 @@
 ---
 #zenetöri #mű
-alias: Gluck Orfeo-ja
+title: Gluck - Orfeo
+feed: show
+date: 2022-12-23 17:30
+permalink: /Gluck - Orfeo
 ---
-[[Christoph Willibald Gluck|Gluck]]
+[[Gluck]]
 [[Sturm und Drang]] előzménye
 
 - minimalista dráma 3 szereplővel

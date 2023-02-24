@@ -15,7 +15,7 @@ permalink: /Arcangelo Corelli
 - a 18. század zenei életére nagy hatással volt.
 - teljes életműve **nem tartalmaz vokális zenét**
 - Rómában a bíborosok együtteseit vezette.
-- járt Párizsban és elleste [[Giovanni Battista Lully]] zenekarának fegyelmét
+- járt Párizsban és elleste [[Lully]] zenekarának fegyelmét
 	- a vonók egyszerre mozogjanak
 - funkciós tonális zene kiteljesedik
 	

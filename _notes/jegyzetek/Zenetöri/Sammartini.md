@@ -1,8 +1,11 @@
 ---
 #zenetöri #személy
-alias: G B Sammartini, Sammartini
+title: Sammartini
+feed: show
+date: 2023-01-05 17:48
+permalink: /Sammartini
 ---
-
+Giovanni Battista Sammartini
 
 - Milanoban született egyházzenész
 	- osztrák fennhatóság

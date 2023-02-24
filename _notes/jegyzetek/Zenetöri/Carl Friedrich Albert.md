@@ -1,4 +1,8 @@
 ---
 #zenetöri #személy
+title: Carl Friedrich Albert
+feed: show
+date: 2022-12-23 17:30
+permalink: /Carl Friedrich Albert
 ---
 

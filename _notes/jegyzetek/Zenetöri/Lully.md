@@ -1,18 +1,21 @@
 ---
-alias: Lully
 #zenetöri #személy
+title: Giovanni Battista Lully
+feed: show
+date: 2022-12-23 17:30
+permalink: /Giovanni Battista Lully
 ---
-
+Giovanni Battista Lully
 [[Francia barokk]] megteremtője, olasz táncos-énekes
 
-- [[Giovanni Battista Lully|Lully]] 1671-től 13 operát írt
+- [[Lully|Lully]] 1671-től 13 operát írt
     -   háttér
         -   kinyomtatták zenéjét, ezért halála után is játszották
             -   olasz [[opera]]kat csak a kezdetekben nyomtattak
         -   [[Jean Racine]] drámái és az olasz [[opera]] az alapja
-        -   [[Giovanni Battista Lully|Lully]] egy zseniális rohadék volt
+        -   [[Lully|Lully]] egy zseniális rohadék volt
         -   Modern zenekar megalkotója ő és [[Arcangelo Corelli|Corelli]]
-        -   [[Quinault]]: [[Giovanni Battista Lully|Lully]] szövegírója
+        -   [[Quinault]]: [[Lully|Lully]] szövegírója
     -   recitativo és aria elválik egymástól
     -   legalább felvonásonként megvan a hármas egység
     -   5 felvonás

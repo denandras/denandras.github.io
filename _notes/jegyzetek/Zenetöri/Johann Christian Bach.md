@@ -1,10 +1,14 @@
 ---
 #zenetöri #személy
+title: Johann Christian Bach
+feed: show
+date: 2022-12-23 17:30
+permalink: /Johann Christian Bach
 ---
 
 > [[Bach]] gyermeke, Lipcsében született, ==1735-1782==
 
-- [[Carl Philipp Emanuel Bach]] tökéletes ellentéte
+- [[C P E Bach]] tökéletes ellentéte
 - Itáliában működött
 - ismerte [[Mozart]]ot
 - olasz operák

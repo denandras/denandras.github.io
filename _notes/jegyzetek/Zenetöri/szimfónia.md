@@ -30,6 +30,6 @@ permalink: /szimfónia
 
 - első nagy mestere [[Haydn]] [->](Haydn#^szimfoniai)
 	- (Haydn Il distrattoja kísérőzene volt, tételek között játszották)
-- ![[Giovanni Battista Sammartini]]
+- ![[Sammartini]]
 - ![[Johann Stamitz]]
 - [[Mozart]] szimfóniái [[Mozart#^f60ab2]]

@@ -1,3 +1,11 @@
+---
+title: Christopher H Gibbs - The life of Schubert
+feed: show
+date: 2023-02-08 23:12
+permalink: /Christopher H Gibbs - The life of Schubert
+#zenetöri
+---
+
 ### 00. Schubert tegnap
 
 - [[Beethoven]] hatása kikerülhetetlen volt

@@ -7,7 +7,7 @@ permalink: /Alceste
 ---
 Alkésztisz
 
-[[Christoph Willibald Gluck]]]: Alkésztisz
+[[Gluck]]]: Alkésztisz
 - leszámol minden ferdeséggel, mely a szerzők hiúságából fakad, és lealacsonyítja a populáris cirádás zenét
 - vokális virtuozitás ne legyen az opera fő célja
 - nem szabad élesen elkülöníteni az áriát és recitativot egymástól

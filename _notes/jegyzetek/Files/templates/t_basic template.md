@@ -4,7 +4,5 @@ feed: show
 date: <% tp.file.creation_date() %>
 permalink: /<% tp.file.title %>
 #
-
-alias:
 ---
 

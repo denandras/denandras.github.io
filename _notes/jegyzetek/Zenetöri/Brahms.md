@@ -1,8 +1,12 @@
 ---
 #zenetöri #személy
-alias: Johannes Brahms
+title: Brahms
+feed: show
+date: 2023-02-22 10:28
+permalink: /Brahms
 ---
 ==1833-1897==
+Johannes Brahms
 [[Ludwik Erhardt - Brahms]]
 
 - romantikus zeneszerzők között fiatal generáció tagja

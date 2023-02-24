@@ -23,19 +23,19 @@ permalink: /Hangszeres zene a 17. században
 - zenehallgadás módja elkezd megváltozni
 	- hangszerjáték specializálódik
 	- zenehallgatás önmagában
-- [[opera#^versenges]]
+- [[opera]]beli versengés
 	- hangszerek mint **dísztárgyak**
 - Hogyan lehet létrehozni **egybefüggő** zenéket **szöveg nélkül**?
 	- nincs alap, amire lehet építeni
 	- vokális zene imitációja
 	- improvizáció
 	- *(Kosztolányi interjúja Bartókkal)*
-- [[Girolamo Frescobaldi]]
+- [[Frescobaldi]]
 	- elsősorban hangszeres zenéje miatt vált ismertté
 	- Toccatak és Partiták
 		- ne legyen egyenletes
 		- egy-egy toccata nem feltétlenül végigjátszandó
-		- a mű fogalma a [[A barokk zenéről általában|barokk]]ban képlékeny
+		- a mű fogalma a barokk képlékeny
 		- zeneszerző és zenész kollégák
 		- toccare = megérint (bármely virtuóz billentyűs darab)
 		- partita = variációsorozat, vagy tánctételek gyűjteménye
@@ -43,7 +43,7 @@ permalink: /Hangszeres zene a 17. században
 		- *Egy zenét muszáj befejezni abban a hangnemben, amiben elkezdtük?*
 - [[szonáta]] (első könyv 1621-ben említi)
 	- [[Dario Castello]] gyűjteménye
-		- ez használja először nyomtatott kiadvány címében a [[szonáta|Sonata]] kifejezést
+		- ez használja először nyomtatott kiadvány címében a szonáta kifejezést
 		- hangszeres darab akárhány szólamra
 - szvit és egyéb műfajok
 	- [[Johann Jacob Froberger]]

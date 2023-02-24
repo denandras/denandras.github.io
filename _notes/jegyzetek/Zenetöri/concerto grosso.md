@@ -1,5 +1,9 @@
 ---
 #zenetöri #fogalom #műfaj
+title: concerto grosso
+feed: show
+date: 2022-12-23 17:30
+permalink: /concerto grosso
 ---
 
-[[Arcangelo Corelli|Corelli]], [[Hangszeres concerto#^2]]
+[[Arcangelo Corelli]], [[Hangszeres concerto]]

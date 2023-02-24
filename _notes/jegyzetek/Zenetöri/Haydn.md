@@ -1,8 +1,14 @@
 ---
 #zenetöri #személy
-alias: Joseph Haydn
+
+title: Haydn
+feed: show
+date: 2023-01-06 19:14
+permalink: /Haydn
 ---
+Joseph Haydn
 <div class="cropped"><img src="https://www.mainpost.de/storage/image/1/1/7/5/2235711_fancybox_1u-pup_EomADw.jpg"></div>
+
 ### Élete
 ==1732-1809==
 - Rohrau, bognármester fia
@@ -10,7 +16,7 @@ alias: Joseph Haydn
 	- -> bécsi Stephansdom fiúkórusa (testvérével)
 	- amíg szoprán hangjuk megmaradt
 - [[Nicola Porpora]]tól tanult
-- [[Carl Philipp Emanuel Bach|C P E Bach]] stílusa érezhető
+- [[C P E Bach]] stílusa érezhető
 	- de *nem volt koncertező billentyűs virtuóz*
 - [[Esterházy]] [[Pál Antal herceg]] zenekarának másodkarmestere, majd *karnagya*[^1]
 	- halála után [[Pompakedvelő Miklós herceg]] szolgálatában állt
@@ -21,8 +27,8 @@ alias: Joseph Haydn
 ### Billentyűs szonáták
 - többnyire nem magának írta őket
 - korai szonátái divertimentók/parthiák, hitelességük bizonytalan
-- 6-szonátás kötet (Giuseppe Haydn) clavicembalóra vagy [[Cristofori fortepianója|fortepiano]]ra
-	- [[Auenbrugger kisasszonyok]]-szonáták: *két Auenbrugger kisasszonynak*
+- 6-szonátás kötet (Giuseppe Haydn) clavicembalóra vagy [[fortepiano]]ra
+	- Auenbrugger-szonáták: *[[Auenbrugger kisasszonyok]]nak*
 	- levél a kiadónak, [[Artaria]]nak, melyben készséges szolgaként köszön el
 	- A B A<sub>1</sub> C A<sub>2</sub>  kóda
 	- kettősvariációt alkalmaz
@@ -35,7 +41,7 @@ alias: Joseph Haydn
 - "Le matin" (= reggel) szimfónia
 	- (három mű elsője)
 	- ([[Esterházy]]-szolgálatban)
-		- lehet, hogy [[Pál Antal herceg|Esterházy Pál Antal]] ötlete
+		- lehet, hogy [[Pál Antal herceg]] ötlete
 	- [[sinfonia concertante]]
 	- rövidke, de jelentős szólók
 		- akár a fagott, vagy a nagybőgő is
@@ -58,7 +64,7 @@ alias: Joseph Haydn
 		- távoli hangnemek
 		- szélsőséges dinamika, gyakori ellenpont
 		- témákon belüli kontraszt
-	- [[45. szimfónia|Búcsú szimfónia]]
+	- [[45. szimfónia]]
 ^szimfoniai
 ---------------
 [^1]: [[45. szimfónia]]

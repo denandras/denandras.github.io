@@ -8,15 +8,15 @@ permalink: /Hangszeres concerto
 ---
 
 - mindenféle hangszeres darab
-- [[Heinrich Schütz]]
+- [[Schütz]]
 - szó: verseny/együttműködik
 - jelentése (fokozatosan szűkül a mai jelentésre: **hangszeres versenymű**)
 	- műfajt
 	- esemény
 	- együttes
-- típusai: ^2
+- típusai:
 	1. [[concerto grosso]]
-		- [[Arcangelo Corelli|Corelli]]
+		- [[Corelli]]
 		- 7 szólam
 			- 3 szólista + 4 fő a zenekar (hangzás megerősítése)
 			- [[szonáta]] + zenekar
@@ -51,5 +51,5 @@ permalink: /Hangszeres concerto
 				- nyitótétel ne legyen 2-3 percnél hosszabb
 				- Vivaldi együltőhelyében írta meg a nyitótételeket: a ritornellóknak van receptje, a hegedűvariációk viszik el másik hangnembe a darabot ^d616cb
 	
-- Corelli concertohagyományát Händel vitte tovább
-- Vivaldiét Bach
+- [[Corelli]] concertohagyományát [[Händel]] vitte tovább
+- [[Vivaldi]]ét [[Bach]]

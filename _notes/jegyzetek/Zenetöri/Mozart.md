@@ -9,7 +9,7 @@ permalink: /Mozart
 <div class="cropped"><img src="https://st4.depositphotos.com/13128258/20871/v/600/depositphotos_208715060-stock-illustration-wolfgang-amadeus-mozart-great-composer.jpg"></div>
 
 ==1756-1791==
-[[k. 292]]
+[[k 292]]
 
 ### Billentyűs szonátái (18)
 - szerepe az utókorban túlértékelt
@@ -17,14 +17,14 @@ permalink: /Mozart
 - növendékeknek írta, inkább etűdszerű, nem mutatja úgy személyiségét benne, mint [[zongoraverseny]]eiben, vagy kamaraműveiben
 	- zenei formálást, kifejezést, ízlést ad át
 - alternatíva a mai koncertéletben:
-	- [[Carl Philipp Emanuel Bach|C P E Bach]] és [[Haydn]] szonátatermése
+	- [[C P E Bach|C P E Bach]] és [[Haydn]] szonátatermése
 	- sokféle kiadás
 	- nemrég elérhetővé váltak eredeti kéziratok
 - [[revideált]] kronológia, korszakolás
 	- + pár elveszett szonáta
 	- 9 első szonáta: *utazások*
 	- többi: *letelepedés* után
-	- a kettő között [[Idomeneo]] [[Entführung]]
+	- a kettő között [[Idomeneo]] [[Die Entführung aus dem Serail]]
 - a kiadások
 	- a hangszerre csak a dinamikai jelölések skálája utal ([[Müncheni szonáták]])
 		- helyi hangszerállomány lassú modernizálása -> pour le [[Clavichord|clavecin]] ou [[Cristofori fortepianója|pianoforte]]

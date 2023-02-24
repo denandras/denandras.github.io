@@ -1,10 +1,13 @@
 ---
-alias: Hippolütosz és Arikia
+title: Hyppolyte et Aricie
+feed: show
+date: 2022-12-23 17:30
+permalink: /Hyppolyte et Aricie
 #zenetöri #mű
 ---
-
-[[Jean Philippe Rameau|Rameau]] 1733-as operája.
-- negatív levél (konklúzió: ez a zene [[A barokk zenéről általában|barokk]])
+Hippolütosz és Arikia
+- [[Rameau]] 1733-as operája.
+- negatív levél (konklúzió: ez a zene barokk)
 - felborzolja a francia kedélyeket
 - története
 	- Theseus & Phaedra és Hyppolite & Aricie pár

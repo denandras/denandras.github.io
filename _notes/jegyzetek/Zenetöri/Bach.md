@@ -63,7 +63,7 @@ Johann Sebastian Bach
 		- mise/ünnepnap/temetés
 	- figurális zene: van benne ének és hangszer
 	- a szakaszok rövidek és egymásba folynak -> a 18. sz. tájékán lesznek hosszabbak és különülnek el egymástól
-		- fog egy szövegrészt, megzenésíti, megy tovább (mint [[Heinrich Schütz]]) - bibliai szövegek
+		- fog egy szövegrészt, megzenésíti, megy tovább (mint [[Schütz]]) - bibliai szövegek
 		- késői Bach kifejezetten kantáralibrettókat zenésített meg
 			- [[Erdmann Neumeister]] lelkész 1700-ban kiadott librettógyűjteményében már elkülönülnek a tételek
 	- Gottes Zeit ist die allerbeste Zeit 106

@@ -1,5 +1,0 @@
----
-#zenetöri #személy
-alias: Silbermann
----
-

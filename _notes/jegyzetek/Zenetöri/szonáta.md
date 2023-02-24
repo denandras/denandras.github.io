@@ -39,5 +39,5 @@ permalink: /szonáta
 
 
 ### Klasszikus szonáta
-*például: [[Mozart]] [[k. 292]]*
+*például: [[Mozart]] [[k 292]]*
 

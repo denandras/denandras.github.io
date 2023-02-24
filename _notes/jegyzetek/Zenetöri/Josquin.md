@@ -1,4 +1,8 @@
 ---
-alias: Josquin de Prez
+title: Josquin
+feed: show
+date: 2022-12-23 17:30
+permalink: /Josquin
 #zenetöri #személy
 ---
+Josquin de Prez

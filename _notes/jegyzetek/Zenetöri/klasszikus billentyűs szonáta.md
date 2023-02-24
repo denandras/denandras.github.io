@@ -12,11 +12,11 @@ permalink: /klasszikus billentyűs szonáta
 - ([[Pergolesi|Giovanni Battista Pergolesi]])
 
 - [[Domenico Scarlatti]]
-- [[Domenico Alberti]]
+- [[Alberti]]
 
 - [[Johann Christian Bach]]
 
-- [[Carl Philipp Emanuel Bach]]
+- [[C P E Bach]]
 - [[Haydn|Joseph Haydn]]
 - [[Mozart]]
 
@@ -24,7 +24,7 @@ permalink: /klasszikus billentyűs szonáta
 - [[kíséretes szonáta]]
 
 #### Újítások
-- [[Cristofori fortepianója]] ([[Gottfried Silbermann|Silbermann]])
+- [[Cristofori fortepianója]] ([[Silbermann|Silbermann]])
 	- először tompább, majd élesebb
 	- a maga lábán áll
 	- [[Erard]] pedálja

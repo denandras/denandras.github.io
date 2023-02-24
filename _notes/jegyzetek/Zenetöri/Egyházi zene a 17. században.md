@@ -1,16 +1,16 @@
 ---
 #zenetöri #tétel
-title: Egyházi zene a 17. században
+title: Egyházi zene a 17 században
 feed: show
 date: 2022-12-23 17:30
-permalink: /Egyházi zene a 17. században
+permalink: /Egyházi zene a 17 században
 ---
 
 -   [[Opera]] és [[madrigál]] nyomtatva terjedt, de még mindig csak szűk körökben
 -   bárki által hallgatható: templomban
 -   nagyobb város - komplexebb zene
 -   egyházi és világi zene csak funkciójában tér el igazán (kb. 18. századig)
--   [[Ars perfecta]] régi stílus és [[A barokk zenéről általában|barokk]] monódikus stílus egyidőben jelen van
+-   [[Ars perfecta]] régi stílus és barokk [[monódikus stílus]] egyidőben jelen van
 
 -   [[Monteverdi]]: Vespro
     -   Mária ünnep vesperálása
@@ -29,13 +29,13 @@ permalink: /Egyházi zene a 17. században
         -   A hívekért való küzdelem eszköze a zene, meghatja, tehát leköti a hallgatót
         -   Ez a harc csak a felszín
 
--   [[Heinrich Schütz]]
+-   [[Schütz]]
     -   Fennmaradt életműve nyomtatott kottákból áll - csak egyházi művek
     -   Első német [[opera]] szerzője - nem maradt fenn
     -   Élete
         -   Apja fogadójában énekelt és felfedezte egy gróf
         -   Ösztöndíjából Velencébe utazott
-            -   Giovanni Gabrieli, a székesegyház karnagya ([[Monteverdi]] elődje) tanította [[Heinrich Schütz|Schütz]]-öt
+            -   Giovanni Gabrieli, a székesegyház karnagya ([[Monteverdi]] elődje) tanította [[Schütz]]-öt
         -   Drezdai választófejedelem udvarában működött
         -   30 éves háború elől Dániába menekült
         -   Madrigálkötet: belépő, ezt ki is nyomtatták

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7878f6a30483c86a",
+            "id": "6610c07d2b060bda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zenetöri/Bernini.md",
+                "file": "Zenetöri/klasszika fogalma.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zenetöri/Bernini.md",
+                "file": "Zenetöri/klasszika fogalma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zenetöri/Bernini.md",
+                "file": "Zenetöri/klasszika fogalma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zenetöri/Bernini.md"
+                "file": "Zenetöri/klasszika fogalma.md"
               }
             }
           }
@@ -149,33 +149,33 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7878f6a30483c86a",
+  "active": "6610c07d2b060bda",
   "lastOpenFiles": [
-    "Zenetöri/Berlioz.md",
-    "Zenetöri/Beethoven 9.md",
-    "Zenetöri/basso continuo.md",
-    "Zenetöri/Beethoven.md",
-    "Zenetöri/Beethoven 1.md",
-    "Zenetöri/Bernini.md",
-    "Zenetöri/Bertran de Born.md",
-    "Zenetöri/menüett.md",
-    "fortepiano.md",
-    "Zenetöri/Cristofori.md",
-    "Zenetöri/barokk a hétköznapokban.md",
-    "Zenetöri/Szabolcsi Bence Művei.md",
-    "Zenetöri/Barberini család.md",
-    "Zenetöri/ballada.md",
-    "Zenetöri/Baldassare Galuppi.md",
-    "Zenetöri/Bach.md",
-    "Zenetöri/Avison.md",
-    "Zenetöri/Auenbrugger kisasszonyok.md",
-    "Zenetöri/Attaignant.md",
-    "Zenetöri/Artaria.md",
-    "Zenetöri/Ars subtilior.md",
-    "Zenetöri/Ars perfecta.md",
-    "Zenetöri/Ars nova.md",
-    "Zenetöri/Ars antiqua.md",
-    "Zenetöri/Arezzói Guido.md",
-    "Zenetöri/Arcangelo Corelli.md"
+    "Zenetöri/Klasszika.md",
+    "Zenetöri/klasszika fogalma.md",
+    "Zenetöri/kíséretes szonáta.md",
+    "Zenetöri/King Arthur.md",
+    "Zenetöri/Karl van Beethoven.md",
+    "Zenetöri/Kaiser-kvártett.md",
+    "Zenetöri/k 292.md",
+    "Zenetöri/Josse de Villeneuve.md",
+    "Zenetöri/Josquin de Prez és a kottanyomtatás.md",
+    "Zenetöri/Josquin.md",
+    "Zenetöri/Jones - Music in Vienna.md",
+    "Zenetöri/John Dunstaple.md",
+    "Zenetöri/John Blow.md",
+    "Zenetöri/Johann Stamitz.md",
+    "Zenetöri/Johann Rochlitz.md",
+    "Zenetöri/Johann Jacob Froberger.md",
+    "Zenetöri/Johann Heinrich Friedrich Schütz.md",
+    "Zenetöri/Johann Gottfried Walter.md",
+    "Zenetöri/Johann Adolph Hasse.md",
+    "Zenetöri/Johann Christian Bach.md",
+    "Zenetöri/Johann Adam Hiller.md",
+    "Zenetöri/Jean Racine.md",
+    "Zenetöri/Janequin.md",
+    "Zenetöri/Jacopo Peri.md",
+    "Zenetöri/Jacopo Corsi.md",
+    "Zenetöri/Isaac.md"
   ]
 }

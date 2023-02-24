@@ -1,5 +1,8 @@
 ---
-alias: Humanizmus és az első operák, humanista, humanizmus
+title: Humanizmus
+feed: show
+date: 2023-01-19 17:25
+permalink: /Humanizmus
 #zenetöri #tétel
 ---
 
@@ -29,7 +32,7 @@ Humanista gondolkodás
     -   `5` felvonás
     -   intermedio-k - zenei közjátékok Ottavino Rinucci szövegeire
     -   [[Giulio Caccini]], [[Jacopo Peri]] - monódikus ének fontos alakjai (és első operaszerzők)
--   [[basso continuo|számozott basszus]], operaszerű, recitált ének
+-   [[basso continuo]], operaszerű, recitált ének
 - két költő: [[Ottavino Rinuccini]] & [[Gabriello Chiabrera]]
 
 Az első operák - azt hitték, hogy az antik drámákat végigénekelték -> [[A barokk zenéről általában|barokk]]

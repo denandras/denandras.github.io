@@ -93,9 +93,9 @@ __________________
 
 ## Adalék
 ###  [[Rupert Christiansen - The Faber Pocket Guide to Opera|R. C. Pocket Guide to Opera]]
-* Franciaország: [[Jean Philippe Rameau]]: nagyobb hangsúly a kóruson, a balett jelenléte
+* Franciaország: [[Rameau]]: nagyobb hangsúly a kóruson, a balett jelenléte
 - Anglia: [[Purcell]] és [[John Blow]] [[intermedio]]k és kisebb operák
-- [[Händel]] [[Scarlatti]] innovációit használta ^handelopera
+- [[Händel]] [[Alessandro Scarlatti]] innovációit használta ^handelopera
 	- nagyobb zenekar
 	- nagyobb ária -> [[opera seria|opera seria]] fontos eleme
 	- `1710:` London - 30 év munka, [[opera seria]]k

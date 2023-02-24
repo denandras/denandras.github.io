@@ -1,8 +1,11 @@
 ---
 #zenetöri #személy
-alias: Frescobaldi
+title: Frescobaldi
+feed: show
+date: 2022-12-23 17:30
+permalink: /Frescobaldi
 ---
-
+Girolamo Frescobaldi
 - elsősorban hangszeres zenéje miatt vált ismertté
 	- Toccatak és Partiták
 		- ne legyen egyenletes
