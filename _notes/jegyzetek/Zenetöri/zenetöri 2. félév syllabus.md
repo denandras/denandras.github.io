@@ -1,6 +1,6 @@
 ---
 title: zenetöri 2. félév syllabus
-feed: show
+feed: hide
 date: 2022-12-23 17:30
 permalink: /zenetöri 2 félév syllabus
 #zenetöri

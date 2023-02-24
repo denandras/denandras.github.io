@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Base/zenetöri.md",
+                "file": "Zenetöri/opera seria.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Base/zenetöri.md",
+                "file": "Zenetöri/opera seria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Base/zenetöri.md",
+                "file": "Zenetöri/opera seria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Base/zenetöri.md"
+                "file": "Zenetöri/opera seria.md"
               }
             }
           }
@@ -164,10 +164,19 @@
   },
   "active": "bee0b7e372af7ce5",
   "lastOpenFiles": [
-    "Zenetöri/zenetöri 2. félév összefoglalás.md",
+    "Zenetöri/opera a 18 század közepén.md",
     "_Base/zenetöri.md",
+    "Zenetöri/szimfónia.md",
+    "Zenetöri/vonósnégyes.md",
     "Zenetöri/zenetöri 1. félév vizsga.md",
+    "Zenetöri/zenetöri 2. félév összefoglalás.md",
     "Zenetöri/zenetöri 2. félév syllabus.md",
+    "Zenetöri/Beethoven.md",
+    "Zenetöri/klasszikus billentyűs szonáta.md",
+    "Zenetöri/klasszika fogalma.md",
+    "Zenetöri/A 15. sz. meghatározó műfajai.md",
+    "Zenetöri/A 13-14. sz. művészi zenéje.md",
+    "Zenetöri/Világi műfajok a 16. században.md",
     "Zenetöri/Hangszeres concerto.md",
     "Zenetöri/szonáta.md",
     "Zenetöri/Angol zenei kultúra.md",
@@ -176,19 +185,10 @@
     "Zenetöri/Hangszeres zene a 17. században.md",
     "Zenetöri/opera.md",
     "Zenetöri/Humanizmus.md",
-    "Zenetöri/Világi műfajok a 16. században.md",
     "Zenetöri/Josquin de Prez és a kottanyomtatás.md",
     "Zenetöri/Világi zene a középkorban.md",
     "Zenetöri/Zenei írásbeliség, gregorián.md",
     "Zenetöri/A középkori zene.md",
-    "Zenetöri/opera buffa.md",
-    "Zenetöri/Il Matrimonio Segreto.md",
-    "Zenetöri/Pergolesi.md",
-    "Zenetöri/Cimarosa.md",
-    "_Base/népzene.md",
-    "Akusztika/A fül anatómiai szerkezete.md",
-    "Zenetöri/Petrarca.md",
-    "Akusztika/pszichoakusztika.md",
-    "Akusztika/formáns.md"
+    "Zenetöri/opera buffa.md"
   ]
 }

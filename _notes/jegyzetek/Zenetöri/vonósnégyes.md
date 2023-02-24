@@ -1,5 +1,9 @@
 ---
 #zenetöri #műfaj #fogalom
+title: vonósnégyes
+feed: show
+date: 2023-01-11 16:40
+permalink: /vonósnégyes
 ---
 
 - a klasszika legfontosabb kamarazenei műfaja

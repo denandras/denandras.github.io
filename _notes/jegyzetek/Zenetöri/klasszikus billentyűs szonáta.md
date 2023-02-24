@@ -1,6 +1,10 @@
 ---
 #zenetöri #műfaj #tétel
 alias: billentyűs szonáta, billentyűs szonátá
+title: klasszikus billentyűs szonáta
+feed: show
+date: 2023-01-10 22:34
+permalink: /klasszikus billentyűs szonáta
 ---
 
 ### Billentyűs szonáta (a 18. sz. második felében)

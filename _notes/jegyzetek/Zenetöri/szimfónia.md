@@ -1,6 +1,10 @@
 ---
 #zenetöri #fogalom
 alias: Symphonie, symphony
+title: szimfónia
+feed: show
+date: 2023-01-16 10:52
+permalink: /szimfónia
 ---
 
 ### Eredete

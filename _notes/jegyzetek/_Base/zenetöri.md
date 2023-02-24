@@ -59,29 +59,27 @@ alias: zenetörténet, zenetörténelem
 ## Harmadik félév - Klasszika (BP)
 *[link az órák anyagához](https://1drv.ms/u/s!AhnUZeCwDLoe9j95BE0rGZJdMx0l?e=u23yaS)*
 
-1. [[klasszika fogalma]]
+1. A [[klasszika fogalma]]
 
 2. [[klasszikus billentyűs szonáta]]
 
-3. [[Beethoven]] [zongoraszonátái](Beethoven#^zongoraszonatai)
+3. [[Beethoven]] zongoraszonátái
 
 4. A [[vonósnégyes]] a késő 18. és kora 19. században
 
 5. A [[szimfónia]] a 18. században
 
-6. [[Beethoven]] [szimfóniái](Beethoven#^szimfoniai)
+6. [[Beethoven]] szimfóniái
 
 7. [[opera a 18 század közepén]]
-
-	1. A vígopera a 18. század második felében ([[opera buffa]])
-
-	2. A komoly opera a 18. század második felében ([[opera seria]])
+	- 1. A vígopera a 18. század második felében ([[opera buffa]])
+	- 2. A komoly opera a 18. század második felében ([[opera seria]])
 
 8. [[Mozart]] és a [[Singspiel]]
 
-> 10. *Beethoven operája* (kimaradt)
+> 10. *Beethoven operája* (kimaradt, függőben)
 
-> 11. *Haydn és az oratórium* (kimaradt)
+> 11. *Haydn és az oratórium* (kimaradt, függőben)
 
 ## Negyedik félév - Romantika (BP)
 
