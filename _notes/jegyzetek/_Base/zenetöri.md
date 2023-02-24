@@ -71,9 +71,9 @@ alias: zenetörténet, zenetörténelem
 6. [[Beethoven]] szimfóniái
 
 7. [[opera a 18 század közepén]]
-	- 1. A vígopera a 18. század második felében ([[opera buffa]], [[opera comique]])
-	- 2. A komoly opera a 18. század második felében ([[opera seria]])
-	- 3. [[Singspiel]]
+	- A vígopera a 18. század második felében ([[opera buffa]], [[opera comique]])
+	- A komoly opera a 18. század második felében ([[opera seria]])
+	- [[Singspiel]]
 
 8. [[Mozart]] és a [[Singspiel]]
 
