@@ -6,7 +6,7 @@ date: 2022-12-23 17:30
 permalink: /Egyházi zene a 17 században
 ---
 
--   [[Opera]] és [[madrigál]] nyomtatva terjedt, de még mindig csak szűk körökben
+-   [[opera]] és [[madrigál]] nyomtatva terjedt, de még mindig csak szűk körökben
 -   bárki által hallgatható: templomban
 -   nagyobb város - komplexebb zene
 -   egyházi és világi zene csak funkciójában tér el igazán (kb. 18. századig)
