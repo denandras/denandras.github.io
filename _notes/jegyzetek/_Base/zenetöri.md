@@ -3,7 +3,6 @@ title: Zenetöri
 feed: hide
 date: 2023-02-20 19:34
 permalink: /zenetöri
-#zenetöri
 
 alias: zenetörténet, zenetörténelem
 ---

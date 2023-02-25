@@ -1,6 +1,6 @@
 ---
 alias: vígopera, dramma giocoso
-#zenetöri #fogalom #műfaj
+#zenetöri #fogalom #műfaj #tétel
 title: opera buffa
 feed: show
 date: 2022-12-23 17:30
