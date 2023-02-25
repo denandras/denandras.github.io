@@ -1,6 +1,6 @@
 ---
 alias: romantika
-#zenetöri #korszak #fogalom
+#zenetöri #korszak #fogalom #tétel
 title: romantika fogalma
 feed: show
 date: 2023-01-20 07:09
@@ -21,7 +21,7 @@ permalink: /romantika fogalma
 	- irodalomt.: [[Schlegel-fivérek]] működésétől (19. század első fele, a '48-as forradalmakig)
 		- Jénai, Heidelbergi, Berlini romantikus mozgalmak
 	- zenet.: Beethoven halála utáni zeneszerzők
-		- [[Chopin]], [[Schumann]], [[Berlioz]], [[Liszt]], [[Mendelssohn]], [[Schubert]], [[Wagner]], [[Liszt]]
+		- [[Chopin]], [[Schumann]], [[Berlioz]], [[Liszt]], [[Mendelssohn]], [[Schubert]], [[Wagner]]
 		- két szenbenálló irányzat
 			- [[Wagner]] és [[Liszt]] a progresszívebb, kevésbé hagyományőrző alak
 			- 19. század második felében is alkottak utóbbiak
