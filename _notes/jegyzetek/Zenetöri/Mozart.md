@@ -33,7 +33,6 @@ Wolfgang Amadeus Mozart
 	- a [[Mozart - Trois Sonates]] kiadást nem ellenőrizte, a többi viszont szerzői kiadások
 	- a szakértők még vitáznak a kiadók miatt is
 		- a korabeli hangszerek kiismerése (1770-80-as Stein vagy Walter zongorák) kiismerése sokszor biztosabb támpontot nyújt
-	
 ### Szimfóniái (változatos, sokféle)
 - alapvetően az operákra koncentrált
 - háromtételes, korai olaszos szimfóniák: London, Hága
@@ -48,9 +47,7 @@ Wolfgang Amadeus Mozart
 	- "Symphonie ohne Menuet"
 	- bécsben írta (amikor bemutatták a [[Le nozze di Figaro]]t) *(hasonlóság vele?)*
 - tanítványaitól 6 dukátot kért 12 leckéért
-^0417f9
-
-- ### Mozart operái ^operai
+- ### Mozart operái
 *David Carins: Mozart és operái*
 	- [[Le nozze di Figaro]] *([[opera buffa]])*
 	- [[Idomeneo]] *([[opera seria]])*

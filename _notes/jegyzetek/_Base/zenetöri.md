@@ -93,4 +93,4 @@ alias: zenetörténet, zenetörténelem
 
 5. [[Hangszeres virtuózok és műveik a 19. században]]
 
-6. [[Szimfonikus zene a 19.században]]
+6. [[Szimfonikus zene a 19. században]]

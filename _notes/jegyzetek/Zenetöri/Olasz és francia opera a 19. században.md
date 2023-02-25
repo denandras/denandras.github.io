@@ -3,7 +3,7 @@
 title: Olasz és francia opera a 19. században
 feed: show
 date: 2023-02-22 10:28
-permalink: /Olasz és francia opera a 19. században
+permalink: /Olasz és francia opera a 19 században
 ---
 [[Julian Budden - A háttér]]
 
