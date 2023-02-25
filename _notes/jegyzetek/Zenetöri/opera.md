@@ -5,7 +5,7 @@ feed: show
 date: 2022-12-23 17:30
 permalink: /opera
 ---
-[[Humanizmus]], [[semi-opera]], [[opera buffa]], [[opera seria]], [[udvari opera]], [[velencei opera]] [[monódikus stílus]], [[Hyppolyte et Aricie]]
+[[Humanizmus]], [[semi-opera]], [[opera buffa]], [[opera seria]], udvari opera, velencei opera, [[monódikus stílus]], [[Hyppolyte et Aricie]]
 __________________
 
 > Milyen közegben jött létre ez a műfaj?
@@ -16,7 +16,7 @@ __________________
 - rendszeres működés, évadok
 	- fix elemek: szerelmi duett, elalvás
 
-- ### versengés ^versenges
+- versengés
 	- [[Giulio Caccini]], [[Emilio Cavaliere]], [[Jacopo Peri]]
 		- versengő együttműködés
 		- mindenki első
@@ -32,8 +32,7 @@ __________________
 	
 - lantkíséretes éneklés nem a nagy művészi zene része
 	- megváltozik, ez lesz a fő zene
-
-[[Le nuove musiche]] 
+- [[Le nuove musiche]] 
 
 ## [[Monteverdi]]: [[Orfeo]]
 
@@ -48,7 +47,7 @@ __________________
 	- drámai hajlam, tragédia vágya
 
 ## Fázisai
-### [[Udvari opera]] ~1630-ig
+### Udvari opera ~1630-ig
 * Peri, Caccini, Cavalieri
 * `1608:` egy esküvő
 	* vendégek főleg Itáliából
@@ -67,7 +66,7 @@ __________________
 - mitológiai
 - későreneszánsz stíluselemek
 
-### [[Velencei opera]]
+### Velencei opera
 - anyagi alap -><- mindig veszteséges
 - fontos a közönség ízlése
 - Barberini család (Róma)
