@@ -3,7 +3,7 @@
 title: Hangszeres zene a 17. században
 feed: show
 date: 2022-12-23 17:30
-permalink: /Hangszeres zene a 17. században
+permalink: /Hangszeres zene a 17 században
 ---
 
 - korabeli gondolkodás: vokális zene az első, hangszeres a vokális szolgája
