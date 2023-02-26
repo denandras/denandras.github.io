@@ -10,4 +10,4 @@ Domenico Cimarosa
 
 [[Il Matrimonio Segreto]]
 
-https://www.wikiwand.com/hu/Domenico_Cimarosa
+[wiki](https://www.wikiwand.com/hu/Domenico_Cimarosa)

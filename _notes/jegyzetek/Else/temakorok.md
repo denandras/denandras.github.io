@@ -2,6 +2,7 @@
 title: Témakörök
 permalink: /temakorok
 format: list
+alias: Témakörök, témakörök
 ---
 
 - <a href="{{'/zenetöri' | relative_url}}"> Zenetöri </a>
