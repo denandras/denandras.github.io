@@ -14,6 +14,8 @@ alias:
 #### Említések
 - [[Vajda Mihály]]
 - [[Varró Dániel]]
+- [[Nemes Z Márió]]
+- [[Pethő Barnabás]] filozófus
 
 - egy olyan korszakjelölő fogalom, amely egy másik korszakhoz viszonyítja magát
 - nem modernellenes, hanem kritikával viszonyul a modernitáshoz
@@ -79,7 +81,7 @@ alias:
 	- áttételesen csapódik le egy művészre a száraz, absztrakt tudomány és világkép
 	- kvázi rajtuk csapódik le, életérzést közvetít
 	- *antropocén* -> az ember beavatkozása a Földre nézve visszafordíthatatlan
-- neo-avantgárd Happening mozgalom
+- neo-avantgárd **Happening** mozgalom
 	- nem kell létrehozni eladható tárgyat
 	- zene-szöveg-mozgás
 
@@ -112,8 +114,77 @@ alias:
 - egy érthetetlen, összetett világban vagyunk, ami kicsit félelmetes, de rengeteg kiteljesedési, cél-ehetőség van
 	- [[Koyaanisqatsi]] film - késő modern kritika
 	- elidegenedésből fakadó elutasítás
-- [[Varró Dániel]]
+- [[Varró Dániel]] - Szívdesszert
 - káosz és szabadság egyszerre
-	- elfogadás
+	- elfogadás és elutasítás
+	- Értékviszonylagos esztétikai minőség
 	- nincs tragédia, van kis szomorúság
-- 
+	- nincs természet már, tájak vannak és környezet
+- újabb fogalmak
+	- transzhumanizmus
+		- tovább él a modern
+		- semmilyen gond nincs a fejlődéssel
+		- AI - transz (túl vagyunk az emberen) ([[I'm your man]] film)
+	- poszthumanizmus
+		- mindez embertelen és nem lesz ennek jó vége
+		- egy hagyományt nem relombolunk, hanem leépítjük (hogy megértsük benne a rosszat) majd újjáépítjük
+			- a zenében: kotta jelentése a fontos, a tradíció nem számít
+		- nem örül, rezignáltan viszonyul a klónokhoz, hibridekhez
+		- [[Legújabb testamentum]] film
+		- [[Világba borult apokalipszis]] film
+		- a tabu bármilyen lehet, dekonstruálni érdemes
+- egy művész jól kérdez, nem feltétlenül kínál megoldást
+	- Patricia Piccinini opusa
+		- poszthumán
+		- ha elutasítunk, át kell gondolnunk, hogy mit utasítunk el
+	- neo-avantgárd
+	- hiperrealizmus
+	- ==Bukta Imre kiállítás Godot labor==
+		- leszámol a vidég-ideállal
+		- az okoskapa - kapitalizmus-kritika (mit ad helyébe?)
+		- marxizmus as helyette valamit (ami még rosszabb)
+- elutasítás: a posztmodernitás plurális világ
+	- felújított hagyományok
+		- kialakul egy szubkultúra (a posztmodernben minden szubkuktúra)
+	- újvallásosság - a pluralizmust radikálisan nem veszi tudomásul
+		- egy vallásos ember nem relativista
+			- kivéve: Mi a véleménye a protestánsokról?
+		- fundamentalizmus
+		- evangelikalizmus, evangelikálok (show-szerű prédikációk fanatikusoknak)
+		- abortuszellenes mozgalom
+
+### Kultúra
+- iskolázottság
+	- nagyon egyszerű ember nem posztmodern
+	- türelmesebbé és nyitottabbá tesz
+- média
+	- félretájékoztatás
+	- a konkrét média erősebben hat ránk a szövegnél
+		- a kép hat, kihagyja az elaborációs "munkát"
+	- szimulákrum: valóság nélküli kép, fake news
+		- kritika nélküli emberek
+	- manipulálás: a közönség irányít, élő adás egyénektől (addigi riporterek, stb)
+
+### Globalizáció
+- konzerválja az egyenlőtlenséget és elnyomást
+- a kultúra teljesen elérhetővé vált
+- túláradás
+	- túl sok -> felszínes
+		- nem lehet befogadni
+		- semmivel sem ismerkedünk meg mélyen
+			- egy indológusból nem lesz jó sinológus
+	- ellenállás
+		- érthető jelenség
+		- kulturális szempontból nem elfogadható ez a buborék
+
+### Filozófia
+- különböző stílusú filozófiák
+- végeredmény: detotalozál, dekonstruál, szkepszis
+
+- előzmény: [[Nietzsche]]
+	- modernitással kapcsolatos kritika
+	- mindannyian über-Menschekké válhatunk
+	- a tigrisek verődnek nyájjá, az is nyáj
+- pszichoanalízis
+	- [[Freud]]
+	- [[Jacques Lacan]]
