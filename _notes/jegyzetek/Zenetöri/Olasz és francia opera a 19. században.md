@@ -44,7 +44,7 @@ permalink: /Olasz és francia opera a 19 században
 
 ### Francia opera
 - [[Giacomo Meyerbeer]] német születésű operaszerző, Itáliából Párizsba tartott életútja
-- [[Ördög Róbert]] = Robert de Diable operája
+- [[Ördög Róbert]] = Robert de Diable opera
 - [[A hugenották]]
 	- (1572-es Szt. Bertalani vérengzés)
 	- [[Ein fester Burg ist unser Gott]] vezérmotívum
