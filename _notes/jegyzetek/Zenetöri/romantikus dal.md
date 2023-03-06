@@ -14,5 +14,4 @@ permalink: /romantikus dal
 	- német irodalmi népiesség irányzata
 	- egyszerű strófikus költemények
 	- könnyen megzenésíthető
-- ![[Schubert]]
 - ![[Schubert - An der Mond]]

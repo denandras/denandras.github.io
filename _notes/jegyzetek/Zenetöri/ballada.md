@@ -21,10 +21,10 @@ permalink: /ballada
 	- az anyja volt a felbujtó
 	- [[Carl Loewe]] megzenésítése
 		- 1796-1868
-		- Hallehiz közeli Löbejün
+		- Hallehoz közeli Löbejün
 		- balladakomponista, énekes, orgonista
-		- összkiadás (pl. Erlkönig megzenésítés)
-	- [[Schubert]] - Eine altschottische Ballade
+		- összkiadás (pl. *Erlkönig* megzenésítés)
+	- [[Schubert]] - *Eine altschottische Ballade*
 		- 3 verzió
 		- `3.` - 1895
 			- unisono női és férfi hang

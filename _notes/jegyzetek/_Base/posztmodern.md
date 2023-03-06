@@ -8,7 +8,7 @@ permalink: /posztmodern
 alias:
 ---
 
-- Kovács Zoltán, bölcsész
+- [[Kovács Zoltán]], bölcsész
 - esszé, vagy jelenléti jegykérés
 
 #### Említések
@@ -16,11 +16,14 @@ alias:
 - [[Varró Dániel]]
 - [[Nemes Z Márió]]
 - [[Pethő Barnabás]] filozófus
+- [[Agyak a tartályban]] (Putnam, filozófiai szemle)
+- [[Bibó István]]
+- [[Joh Luck]]
 
 - egy olyan korszakjelölő fogalom, amely egy másik korszakhoz viszonyítja magát
 - nem modernellenes, hanem kritikával viszonyul a modernitáshoz
 - *korszak*: postmodernity, kb. 1960-
-	- Liotar esszéje
+	- [[Liotar]] esszéje
 - *stílus*: postmodernism
 	- a magyarban nincs különválasztva
 - a korszaknak nincs vége, kivéve egy posztapokaliptikus világban, vagy Észak-Koreában
@@ -36,11 +39,11 @@ alias:
 		- arab országok, tudósok
 	- gondolkodó vallásos vezetők nem premodernek
 
-> 	posztmodern az, aki azt állítja, hogy együtt létezik sokminden (nem minden törvény együttműködő egymással, Isten létezik, de a tudomány is jó)
+> 	posztmodern az, aki azt állítja, hogy együtt létezik sokminden (nem minden törvény együttműködő egymással, de ettől még létezhet minden együtt. pl. Isten létezik, de a tudomány is jó)
 
 ### Modernitás
 - 1620-1960
-- Francis Bacon: Novum Organum
+- [[Francis Bacon]]: Novum Organum
 	- 1620: az életet tudományos kutatásokkal, matematikával meg tudjuk érteni
 	- 1960-72: lakótelep felrobbantása az építészetben, Gadamer: Igazság és módszer (eljutunk-e az igazságig, amikor egy műalkotással dolgozunk - szemben a régi "már tartalmazza" elmélettel)
 		- a műalkotásban soha nem bírhat rejtett jelentéssel, mindig az alkotó és befogadó párbeszédje
@@ -70,7 +73,8 @@ alias:
 	- hierarchikus beállítás (magas művészet)
 - már akkor is pluralizmus volt, mostmár ezt látjuk
 	- az absztrakt geometrikusok utálják a velük párhuzamosan jelen lévő szürrealistákat
- későmodernitás 20. sz. második fele
+
+#### Későmodernitás 20. sz. második fele
 - irodalomban
 - szkepszis
 - Sigmund [[Freud]] pszichoanalízis-elmélete
@@ -127,7 +131,7 @@ alias:
 		- AI - transz (túl vagyunk az emberen) ([[I'm your man]] film)
 	- poszthumanizmus
 		- mindez embertelen és nem lesz ennek jó vége
-		- egy hagyományt nem relombolunk, hanem leépítjük (hogy megértsük benne a rosszat) majd újjáépítjük
+		- egy hagyományt nem lerombolunk, hanem leépítjük (hogy megértsük benne a rosszat) majd újjáépítjük
 			- a zenében: kotta jelentése a fontos, a tradíció nem számít
 		- nem örül, rezignáltan viszonyul a klónokhoz, hibridekhez
 		- [[Legújabb testamentum]] film
@@ -179,12 +183,58 @@ alias:
 
 ### Filozófia
 - különböző stílusú filozófiák
-- végeredmény: detotalozál, dekonstruál, szkepszis
-
+- dekonstruálja a metafizikát
+- végeredmény: detotalizál, dekonstruál, szkepszis
+	- az igazság detotalizálása (nem fogadjuk el, hogy mindig igaz)
+- szkepszis mindig is volt, de amikor erősebb lesz, mint amiben kételkedik, posztmodernről beszélünk
+- a 2000 éves európai hagyományt feladva (igazság keresése) elfogadjuk a relativizmust, toleranciát
+	- ismeretelmélet
+	- félreértettük Platónt, az eredmények felszíniek
+- [[Mátrix]]: ez nem az igazi világ -> végtelen regresszus, szkepticizmus
 - előzmény: [[Nietzsche]]
 	- modernitással kapcsolatos kritika
-	- mindannyian über-Menschekké válhatunk
-	- a tigrisek verődnek nyájjá, az is nyáj
+	- mindannyian Übermenschekké válhatunk
+		- gyávák vagyunk bevallani, hogy nincs cél, de aki bátor ezt belátni, Übermensch
+	- ha a tigrisek verődnek nyájjá, az is nyáj
+	- ismerte [[Wagner]]t
 - pszichoanalízis
 	- [[Freud]]
+		- az emberi gondolkodás nem tudja kezelni magát a tudattalan jelenléte miatt
+		- nem az észhasználat a lényeges
 	- [[Jacques Lacan]]
+- [[Wittgenstein]]: nyelvjátékok relativizmusa
+	- teljesen totális tudás
+	- nincs önálló gondolkodás, tehát a nyelvünk befolyásolja, hogy egyáltalán mit gondolhatunk
+	- a nyelvhasználatunk dekonstruálása, a szavak mögött nincs valós jelentés, mert magára alapoz
+	- Isten, morális értékek, tudományos bizonyítás: a jó szó jelentése önmagában nem értelmezhető egyféleképpen, egyszerre több nyelvjátékot játszunk
+- [[Gadamer]]: hermeneutika
+	- nincs abszolút jelentés
+	- mindig értelmezünk
+	- [[Igazság és módszer]]
+	- Hermész tolmácsisten (istenek értelmezése)
+	- lehetetlen, hogy mindenki ugyanúgy értelmezzen egy dolgot
+	- hatástörténeti horizont
+	- befogadásesztétika
+		- nem a mű számít
+		- biztosan nem a szerző számít
+		- mit tudok kezdeni a művel?
+- [[Thomas Kuhn]]
+	- logikai pozitivizmusnak belső problémái vannak - [[Lakatos Imre]]: az elméletek versenyhelyzete
+	- belső feloldódás
+	- a tudományt nem csak racionális és empirikus dolgok határozzák meg
+	- tudományfilozófia
+		- mi a tudomány?
+		- közösségek, kísérletek, stb.
+- [[Rorty]]
+	- a pragmatizmus hasonlít a posztmodern gondolkodásra
+	- ami működik, azt tartják igaznak
+	- neopragmatizmus: az igazság relatív
+- posztstrukturaliznus
+	- [[R Barthes]]: a szöveg öröme
+		- [[A szerző halála]]
+- dekonstrukció
+	- [[Derrida]]
+	- szétbontok és újraértelmezve felépítek
+	- mindig van "csalás", probléma, ezért mindig kicsit ki kell hagyni az újraértelmezésből
+	- párhuzamosan ugyanazt kigondolják filozófusok, csak más nyelveken, így Derrida is
+- [[Lyotard]] - a posztmodern megfogalmazása
