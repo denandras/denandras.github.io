@@ -12,7 +12,7 @@ permalink: /Schubert dalciklusai
 	- Liederspielként (társasjáték) született
 	- Szägemann bankár szalonjában
 	- ők maguk a szereplők (Stägemann, Wilhelm Müller, Wilhelm Hensel)
-	- Ludwig Berger/W Müller-versek??==√==
+	- Ludwig Berger/W Müller-versek?? #később 
 	- hangnemek a cselekmény alapján
 	- Die liebe Farbe (zöld)
 		- a vadász színe

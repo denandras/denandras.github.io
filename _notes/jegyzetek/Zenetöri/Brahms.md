@@ -17,7 +17,7 @@ Johannes Brahms
 - konzervatívabb irányzat
 - [[Schumann]] a felfedezője (cikk róla)
 
-- dalciklusai
+### dalciklusai
 - Stochkausennek (énekes) írta Tieck elbeszélésének versbetéteire
 	- kísérte is őt
 	- ő tette divattá az egyben történő előadást

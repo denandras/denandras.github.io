@@ -6,7 +6,8 @@ date: 2022-12-23 17:30
 permalink: /Bach
 ---
 Johann Sebastian Bach
-<div class="cropped"><img src="https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/johann-sebastian-bach-black-and-white.png"></div>
+
+![](https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/johann-sebastian-bach-black-and-white.png)
 
 - Kunst der Fuge
 	- utolsó évtizedében összefoglalt fúgagyűjtemény
