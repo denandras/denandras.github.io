@@ -5,7 +5,7 @@ feed: show
 date: 2023-01-06 19:14
 permalink: /klasszika fogalma
 ---
-<div class="cropped"><img src="https://esterhazy.at/user/images/a-Schloss-Esterhazy/_1200x630_crop_center-center_82_none/Schloss-Esterhazy-Geschichte_-historisch-cEsterhazy.jpg?mtime=1562681232"></div>
+![](https://esterhazy.at/user/images/a-Schloss-Esterhazy/_1200x630_crop_center-center_82_none/Schloss-Esterhazy-Geschichte_-historisch-cEsterhazy.jpg?mtime=1562681232)
 
 ==1750-1820==
 egyszerűsége -><- barokk polifónia

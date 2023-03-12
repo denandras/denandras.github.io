@@ -5,7 +5,7 @@ feed: show
 date: 2022-12-23 17:30
 permalink: /Beethoven
 ---
-<div class="cropped"><img src="https://www.kennedy-center.org/globalassets/education/resources-for-educators/classroom-resources/artsedge/collection/collection-beethoven-169.jpg"></div>
+![](https://www.kennedy-center.org/globalassets/education/resources-for-educators/classroom-resources/artsedge/collection/collection-beethoven-169.jpg)
 > ==1770-1827==, Bonn, flamand származású
 > apja és nagyapja is zenész
 > 19 évesen apját elvitte az alkoholizmus, ő lett a családfő (jogilag, elvesztett anya és testvér helyzetben)

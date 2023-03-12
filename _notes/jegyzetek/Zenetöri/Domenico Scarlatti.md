@@ -6,7 +6,7 @@ date: 2023-01-06 19:14
 permalink: /Domenico Scarlatti
 ---
 
-<div class="cropped"><img src="https://www.br-klassik.de/themen/klassik-entdecken/domenico-scarlatti-komponist-100~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg?version=f30a2"></div>
+![](https://www.br-klassik.de/themen/klassik-entdecken/domenico-scarlatti-komponist-100~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg?version=f30a2)
 
 - Nápolyban született ([[opera buffa]] központja), ==1660-1725==
 - Az olasz barokk opera egyik legjelentősebb képviselője

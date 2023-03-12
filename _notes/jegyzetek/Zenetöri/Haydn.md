@@ -7,7 +7,7 @@ date: 2023-01-06 19:14
 permalink: /Haydn
 ---
 Joseph Haydn
-<div class="cropped"><img src="https://www.mainpost.de/storage/image/1/1/7/5/2235711_fancybox_1u-pup_EomADw.jpg"></div>
+![](https://www.mainpost.de/storage/image/1/1/7/5/2235711_fancybox_1u-pup_EomADw.jpg)
 
 ### Élete
 ==1732-1809==

@@ -6,7 +6,7 @@ permalink: /Pergolesi
 #zenetöri #személy
 ---
 Giovanni Battista Pergolesi
-<div class="cropped"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Giovanni_Battista_Pergolesi.jpg"></div>
+![](https://upload.wikimedia.org/wikipedia/commons/c/cc/Giovanni_Battista_Pergolesi.jpg)
 
 - [[Úrhatnám szolgáló]]
 - ősei Pergolaból származnak

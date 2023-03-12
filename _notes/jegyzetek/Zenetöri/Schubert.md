@@ -6,7 +6,7 @@ date: 2023-02-20 07:09
 permalink: /Schubert
 ---
 Franz Schubert
-<div class="cropped"><img src="https://koncert.zeneakademia.hu/data/ZENEAKADEMIA.HU/2021_osz/sajat/schubert_triok_2021_osz_focuspoint_900x510.jpg"></div>
+![](https://koncert.zeneakademia.hu/data/ZENEAKADEMIA.HU/2021_osz/sajat/schubert_triok_2021_osz_focuspoint_900x510.jpg)
 Ajánlott irodalom: [[Christopher H Gibbs - The life of Schubert]]
 
 1797-1828
