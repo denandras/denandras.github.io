@@ -17,7 +17,7 @@ permalink: /akusztika
 - "A világűr zenéje csendes"
 - [Quizlet](https://quizlet.com/558890153/akusztika-fogalmak-flash-cards/)
 
-==[[akuszika képek]]==
+<mark>[[akuszika képek]]</mark>
 
 - Athéni hangiskola
 - görögök sokat tudtak a hangról

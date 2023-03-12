@@ -7,7 +7,7 @@ permalink: /klasszika fogalma
 ---
 ![](https://esterhazy.at/user/images/a-Schloss-Esterhazy/_1200x630_crop_center-center_82_none/Schloss-Esterhazy-Geschichte_-historisch-cEsterhazy.jpg?mtime=1562681232)
 
-==1750-1820==
+<mark>1750-1820</mark>
 egyszerűsége -><- barokk polifónia
 
 ### A klasszika szó
@@ -27,7 +27,7 @@ egyszerűsége -><- barokk polifónia
 
 ### Fogalma, periodizálása
 
-- ==1750-1820==
+- <mark>1750-1820</mark>
 - kortársak is együtt beszélnek a hármasról
 	- "Beethoven Mozart szellemét fogja megkapni Haydn kezéből"
 	- *előre meg volt írva*

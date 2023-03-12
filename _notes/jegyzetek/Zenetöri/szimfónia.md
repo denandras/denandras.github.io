@@ -9,7 +9,7 @@ permalink: /szimfónia
 
 ### Eredete
 
-- (görög) ==sünfoné = együtthangzás==
+- (görög) <mark>sünfoné = együtthangzás</mark>
 - elődje: [[sinfonia]]
 - ~1750-ig egy tételes zenekari bevezetőt jelent
 - operák nyitányai lehettek szimfóniák kezdetben

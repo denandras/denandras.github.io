@@ -7,6 +7,6 @@ permalink: /Puccini
 ---
 
 Giacomo Puccini
-==1858-1924==
+<mark>1858-1924</mark>
 
 https://www.wikiwand.com/hu/Puccini

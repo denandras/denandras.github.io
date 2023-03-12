@@ -6,7 +6,7 @@ date: 2022-12-23 17:30
 permalink: /gáláns stílus
 ---
 
-==~1720~1770==
+<mark>~1720~1770</mark>
 = zenei rokokó
 
 > gáláns: (galant: lovagias, kedves, udvarias)

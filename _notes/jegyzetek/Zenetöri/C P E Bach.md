@@ -7,15 +7,15 @@ permalink: /C P E Bach
 ---
 Carl Philipp Emanuel Bach
 
-> [[Bach]] gyermeke, ==1714-1788==, Weimarban született
+> [[Bach]] gyermeke, <mark>1714-1788</mark>, Weimarban született
 > A 18. sz. legtermékenyebb billentyűs szerzője
 
 - Lipcse, Frankfurt: egyetemi tanulmányok
 - német városokban alkotott
-- ==1738-68==: [[Nagy Frigyes]] porosz uralkodó udvara
+- <mark>1738-68</mark> [[Nagy Frigyes]] porosz uralkodó udvara
 	- alapítottak itt egy operát
 	- *Értekezés a billentyűs játék igaz művészetéről*: a korszak előadói gyakorlata
-- ==1768==-tól haláláig Hamburgban **kántor** és **zeneigazgató**
+- <mark>1768</mark>-tól haláláig Hamburgban **kántor** és **zeneigazgató**
 	- [[Telemann]] halála miatt nyílt meg az állás
 
 - ### Szonátakötetek
@@ -27,7 +27,7 @@ Carl Philipp Emanuel Bach
 	- *Műértőknek és műkedvelőknek* - jellemzően nőknek
 		- otthoni használatra
 		- nem stílus, inkább technikai igények miatt
-	- *Variált reprízes szonáták* kötetek ==1760-63==
+	- *Variált reprízes szonáták* kötetek <mark>1760-63</mark>
 		- előszó (díszítések kiírásának oka)
 		- ajánlás szöveg (sokszor franciául a nemzetköziség miatt)
 		- (főrangúaknak: a zenész itt szolga)

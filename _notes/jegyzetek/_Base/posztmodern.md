@@ -143,7 +143,7 @@ alias:
 		- ha elutasítunk, át kell gondolnunk, hogy mit utasítunk el
 	- neo-avantgárd
 	- hiperrealizmus
-	- ==Bukta Imre kiállítás Godot labor==
+	- <mark>Bukta Imre kiállítás Godot labor</mark>
 		- leszámol a vidég-ideállal
 		- az okoskapa - kapitalizmus-kritika (mit ad helyébe?)
 		- marxizmus as helyette valamit (ami még rosszabb)

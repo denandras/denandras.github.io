@@ -9,7 +9,7 @@ permalink: /Mozart
 Wolfgang Amadeus Mozart
 ![](https://st4.depositphotos.com/13128258/20871/v/600/depositphotos_208715060-stock-illustration-wolfgang-amadeus-mozart-great-composer.jpg)
 
-==1756-1791==
+<mark>1756-1791</mark>
 [[k 292]]
 
 ### Billentyűs szonátái (18)

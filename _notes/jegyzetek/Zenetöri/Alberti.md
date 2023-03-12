@@ -7,7 +7,7 @@ permalink: /Alberti
 ---
 Domenico Alberti
 ![](https://prabook.com/web/show-photo.jpg?id=1561778)
-> ==1710-1746== Velence
+> <mark>1710-1746</mark> Velence
 
 - csembalista és énekes
 - velencei követ apródjaként Spanyolországban is megfordult

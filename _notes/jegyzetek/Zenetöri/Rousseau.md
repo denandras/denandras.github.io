@@ -6,4 +6,4 @@ permalink: /Rousseau
 #zenetöri #személy
 ---
 Jean-Jacques Rousseau
-- ==1712-1778==
+- <mark>1712-1778</mark>

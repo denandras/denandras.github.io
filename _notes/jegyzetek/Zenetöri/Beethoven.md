@@ -6,7 +6,7 @@ date: 2022-12-23 17:30
 permalink: /Beethoven
 ---
 ![](https://www.kennedy-center.org/globalassets/education/resources-for-educators/classroom-resources/artsedge/collection/collection-beethoven-169.jpg)
-> ==1770-1827==, Bonn, flamand származású
+> <mark>1770-1827</mark>, Bonn, flamand származású
 > apja és nagyapja is zenész
 > 19 évesen apját elvitte az alkoholizmus, ő lett a családfő (jogilag, elvesztett anya és testvér helyzetben)
 
@@ -14,7 +14,7 @@ titkára: [[Anton Schindler]]
 fogadott fia (és unokaöccse): [[Karl van Beethoven]]
 a francia forradalom szellemi örököse
 
-### ==Élete==
+### <mark>Élete</mark>
 - Gyermekkora
 	- Bonnban született
 		- [[Mozart]] szellemét megkapni ment [[Haydn]] kezéből
@@ -36,14 +36,14 @@ a francia forradalom szellemi örököse
 		- [[Beethoven]] túl lázadó típus
 	- első opus számmal ellátott szonátáit neki dedikálta (hála/marketing)
 
-### ==Művei==
+### <mark>Művei</mark>
 - számozás
 	- saját maga látja el fontosnak ítélt műveit számokkal
 	- nem feltétlenül kronológiai alapon nyugszik
 	- Kinsky és Halm műjegyzéke: WoO (Werke ohne Opuszahl)
 - korszakolás
 
-#### ==Korszakolás, zongoraszonátái==
+#### <mark>Korszakolás, zongoraszonátái</mark>
 ^zongoraszonatai
 - korai ***(-1803)***
 	- bécsi [[Walter]] [[fortepiano]]t használ
@@ -63,7 +63,7 @@ a francia forradalom szellemi örököse
 	- egyetlen kifejezetten **[[programatikus]]** zongoraszonátája: az op. 81a „[[Les Adieux]]”
 	- záró [[szonátarondó]] formák eltűnnek, fúgák, vagy átszellemült var. finálék lépnek a helyükbe
 
-### ==Szimfóniái==
+### <mark>Szimfóniái</mark>
 ^szimfoniai
 - ott folytatja, ahol [[Haydn]] abbahagyta
 - korai periódus

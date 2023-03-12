@@ -7,7 +7,7 @@ permalink: /Beethoven 9
 ---
 
 ### Keletkezése
-- bécsi ősbemutató: ==1824==
+- bécsi ősbemutató: <mark>1824</mark>
 - várták az új művet: [[Rossini]]nél kisebb népszerűségre tett szert, de felfigyeltek rá
 
 - hatástörténete miatt különleges

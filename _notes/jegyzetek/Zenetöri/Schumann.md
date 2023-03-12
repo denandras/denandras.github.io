@@ -42,7 +42,7 @@ Robert Schumann
 - Op. 48 "Heine" Dichterliebe
 	- szerelem és csalódás
 	- tematikus repríz
-	- ==nyitódal== nincs lezárva, csak a második dallal (szerelmes lett, abszolút érthető, de nem megszokott jelenség)
+	- nyitódal nincs lezárva, csak a második dallal (szerelmes lett, abszolút érthető, de nem megszokott jelenség)
 	- No. 13 "Álmomban sírtam éjjel"
 		- Heinére jellemző ismétléses csattanó
 		- zongora és énekhang elkülönül az első felében

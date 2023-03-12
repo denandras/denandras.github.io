@@ -22,27 +22,27 @@ permalink: /zenetöri 2 félév összefoglalás
 	- Barberini család
 4.  **Hangszeres zene**
 	- hogyan került előtérbe?
-	- ==Girolamo Frescobaldi (toccaták & partiták, leírás) és Johann Jacob Froberger (szvit)==
-	- ==Dario Castello és a Sonata==
+	- <mark>Girolamo Frescobaldi (toccaták & partiták, leírás) és Johann Jacob Froberger (szvit)</mark>
+	- <mark>Dario Castello és a Sonata</mark>
 5.  **Schütz és szöveg a zenében**
 	- élete
 	- főbb művei (madrigálkötet és zsoltárkötet)
-	- ==zene és szöveg itt== és a francia barokkban
+	- <mark>zene és szöveg itt</mark> és a francia barokkban
 		- Kleine geistliche Koncerte - copy Monteverditől, izgatott stílus
 	- Monteverdi és az egyházi zene
 	- egyházi feszültségek
 1.  **Francia barokk**
-	- Lully és környezete, ==Acadeémie de Musique==
+	- Lully és környezete, <mark>Acadeémie de Musique</mark>
 	- tánc, balett fajtái
-	- ==operák (Racine és Moliére alap) kötöttsége==
+	- <mark>operák (Racine és Moliére alap) kötöttsége</mark>
 2.  **Angol barokk**
-	- ==consort és fajtái==
+	- <mark>consort és fajtái</mark>
 	- Purcell és a 10 éves forradalmi lyuk
-		- ==triószonáták (3-4, szabálytalan ritmus, játék)==
+		- <mark>triószonáták (3-4, szabálytalan ritmus, játék)</mark>
 		- Corelli hatással van rá (gyors hírek)
 1.  **Szonáta**
 	- Purcell és a 10 éves forradalmi lyuk
-		- ==triószonáták (3-4, szabálytalan ritmus, játék)==
+		- <mark>triószonáták (3-4, szabálytalan ritmus, játék)</mark>
 		- Corelli hatással van rá (gyors hírek)
 	- olasz fajták, műfajkáosz, mi a mű?
 2.  **Concerto**

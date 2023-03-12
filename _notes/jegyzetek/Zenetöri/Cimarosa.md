@@ -6,7 +6,7 @@ date: 2022-12-23 17:30
 permalink: /Cimarosa
 ---
 Domenico Cimarosa
-==1749-1801==
+<mark>1749-1801</mark>
 
 [[Il Matrimonio Segreto]]
 

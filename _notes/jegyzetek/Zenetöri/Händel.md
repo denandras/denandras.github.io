@@ -6,7 +6,7 @@ permalink: /Händel
 #zenetöri #személy
 ---
 Georg Friedrich Händel
-- ==1685-1759==
+- <mark>1685-1759</mark>
 
 Szerepe az operában: 
 [[opera]]

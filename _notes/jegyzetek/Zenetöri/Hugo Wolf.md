@@ -6,7 +6,7 @@ permalink: /Hugo Wolf
 #zenetöri
 ---
 
-- ==1860-1903==
+- <mark>1860-1903</mark>
 - Windischgraz
 - baráti körében [[Mahler]]
 - fiatalkorában szifiliszes lett bordélyházakban

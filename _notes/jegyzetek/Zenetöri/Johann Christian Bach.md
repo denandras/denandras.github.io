@@ -6,7 +6,7 @@ date: 2022-12-23 17:30
 permalink: /Johann Christian Bach
 ---
 
-> [[Bach]] gyermeke, Lipcsében született, ==1735-1782==
+> [[Bach]] gyermeke, Lipcsében született, <mark>1735-1782</mark>
 
 - [[C P E Bach]] tökéletes ellentéte
 - Itáliában működött

@@ -10,7 +10,7 @@ Joseph Haydn
 ![](https://www.mainpost.de/storage/image/1/1/7/5/2235711_fancybox_1u-pup_EomADw.jpg)
 
 ### Élete
-==1732-1809==
+<mark>1732-1809</mark>
 - Rohrau, bognármester fia
 - [[Reutter]] figyelt fel rá
 	- -> bécsi Stephansdom fiúkórusa (testvérével)

@@ -16,7 +16,7 @@ permalink: /A barokk zenéről általában
 
 [[barokk a hétköznapokban]]
 
-### ==~1600~1730== ([[gáláns stílus]]sal vége)
+### <mark>~1600~1730</mark> ([[gáláns stílus]]sal vége)
 - Humanista értelmiségiek Itáliában - görög-római modellek a zenébe	
 * szó:
 	- igazgyöngy-halászok elnevezése
